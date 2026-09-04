@@ -15,7 +15,7 @@ export async function GET(req: NextRequest) {
       gsrlimit: "1",
       prop: "imageinfo",
       iiprop: "url",
-      iiurlwidth: "800",
+      iiurlwidth: "400",
       format: "json",
       origin: "*",
     });
