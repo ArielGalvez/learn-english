@@ -149,7 +149,7 @@ export function StudyDeck({
           >
             {side === "tense" ? (
               <div className="flex h-full flex-col">
-                <VerbImage imageQuery={verb.image_query} letter={verb.base[0]} className="h-40" />
+                <VerbImage imageQuery={verb.image_query} letter={verb.base[0]} className="h-56" />
                 <div className="flex flex-1 flex-col gap-4 overflow-y-auto p-5">
                   <div className="flex items-center justify-center gap-3">
                     <h2 className="text-4xl font-bold capitalize text-card-foreground">

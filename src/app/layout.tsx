@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { ThemeToggle } from "@/components/theme-toggle";
+import { Header } from "@/components/header";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -65,12 +65,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <div className="mx-auto min-h-dvh w-full max-w-md sm:max-w-lg">
-          <header className="flex items-center justify-between px-4 pt-4">
-            <span className="text-sm font-semibold tracking-tight text-muted-foreground">
-              English Verbs
-            </span>
-            <ThemeToggle />
-          </header>
+          <Header />
           <main>{children}</main>
         </div>
       </body>

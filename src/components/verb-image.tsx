@@ -47,7 +47,7 @@ export function VerbImage({
           alt={imageQuery}
           fill
           sizes="(max-width: 512px) 100vw, 512px"
-          className="object-cover"
+          className="object-contain"
           unoptimized
           onError={() => setError(true)}
         />
