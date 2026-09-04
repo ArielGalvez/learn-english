@@ -3,9 +3,11 @@
 import { useEffect, useMemo, useState } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { generateQuestionSequence } from "@/lib/quiz";
+import { playCorrect, playWrong } from "@/lib/sounds";
 import { useProgress } from "@/hooks/use-progress";
 import { PronounceButton } from "./pronounce-button";
 import { VerbImage } from "./verb-image";
+import { Confetti } from "./confetti";
 import type { Verb } from "@/lib/types";
 
 export function QuizDeck({
@@ -21,6 +23,7 @@ export function QuizDeck({
   const [index, setIndex] = useState(0);
   const [selected, setSelected] = useState<string | null>(null);
   const [score, setScore] = useState(0);
+  const [confetti, setConfetti] = useState(false);
 
   const question = questions[index];
   const isFinished = index >= questions.length;
@@ -40,7 +43,13 @@ export function QuizDeck({
     setSelected(option);
     const isCorrect = option === question.correct;
     recordResult(question.verb.base, isCorrect ? "correct" : "wrong");
-    if (isCorrect) setScore((s) => s + 1);
+    if (isCorrect) {
+      setScore((s) => s + 1);
+      playCorrect();
+      setConfetti(true);
+    } else {
+      playWrong();
+    }
   };
 
   const next = () => {
@@ -64,8 +73,9 @@ export function QuizDeck({
         initial={{ opacity: 0, x: 60 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ type: "spring", stiffness: 260, damping: 24 }}
-        className="flex flex-col overflow-hidden rounded-3xl border border-border bg-card shadow-xl shadow-black/10 dark:shadow-black/40"
+        className="relative flex flex-col overflow-hidden rounded-3xl border border-border bg-card shadow-xl shadow-black/10 dark:shadow-black/40"
       >
+        {confetti && <Confetti onDone={() => setConfetti(false)} />}
         <div className="border-b border-border p-5">
           {question.type === "image" ? (
             <div className="mb-4">
