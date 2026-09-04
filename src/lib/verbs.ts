@@ -1,0 +1,22 @@
+import verbsJson from "@/data/verbs.json";
+import type { Verb } from "./types";
+
+export type { Verb, VerbTenses, TenseKey } from "./types";
+export { TENSE_LABELS } from "./types";
+
+export const VERBS = verbsJson as Verb[];
+
+export const TOTAL_VERBS = VERBS.length;
+
+export function getVerb(base: string): Verb | undefined {
+  return VERBS.find((v) => v.base === base);
+}
+
+export function shuffle<T>(input: T[]): T[] {
+  const arr = [...input];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}

@@ -1,0 +1,1002 @@
+[
+  {
+    "base": "be",
+    "meaning_en": "Used with past participles of verbs to form the passive voice.",
+    "meaning_es": "ser / estar",
+    "example": "The dog was saved by the boy.",
+    "image_query": "person standing",
+    "frequency": 1,
+    "tenses": {
+      "present": "am / is",
+      "past": "was",
+      "past_participle": "been",
+      "present_continuous": "being",
+      "present_continuous_with_aux": "am being",
+      "past_continuous": "was being",
+      "present_perfect": "have/has been",
+      "past_perfect": "had been",
+      "future": "will be",
+      "future_perfect": "will have been"
+    }
+  },
+  {
+    "base": "have",
+    "meaning_en": "To possess, own.",
+    "meaning_es": "tener",
+    "example": "I have a house and a car.",
+    "image_query": "person holding a box",
+    "frequency": 2,
+    "tenses": {
+      "present": "have / has",
+      "past": "had",
+      "past_participle": "had",
+      "present_continuous": "having",
+      "present_continuous_with_aux": "am having",
+      "past_continuous": "was having",
+      "present_perfect": "have/has had",
+      "past_perfect": "had had",
+      "future": "will have",
+      "future_perfect": "will have had"
+    }
+  },
+  {
+    "base": "do",
+    "meaning_en": "A syntactic marker in a question whose main verb is not another auxiliary verb or be.",
+    "meaning_es": "hacer",
+    "example": "Do you go there often?",
+    "image_query": "person doing homework",
+    "frequency": 3,
+    "tenses": {
+      "present": "do / does",
+      "past": "did",
+      "past_participle": "done",
+      "present_continuous": "doing",
+      "present_continuous_with_aux": "am doing",
+      "past_continuous": "was doing",
+      "present_perfect": "have/has done",
+      "past_perfect": "had done",
+      "future": "will do",
+      "future_perfect": "will have done"
+    }
+  },
+  {
+    "base": "say",
+    "meaning_en": "To pronounce.",
+    "meaning_es": "decir",
+    "example": "Please say your name slowly and clearly.",
+    "image_query": "person speaking",
+    "frequency": 4,
+    "tenses": {
+      "present": "say / says",
+      "past": "said",
+      "past_participle": "said",
+      "present_continuous": "saying",
+      "present_continuous_with_aux": "am saying",
+      "past_continuous": "was saying",
+      "present_perfect": "have/has said",
+      "past_perfect": "had said",
+      "future": "will say",
+      "future_perfect": "will have said"
+    }
+  },
+  {
+    "base": "get",
+    "meaning_en": "To obtain; to acquire.",
+    "meaning_es": "obtener / conseguir",
+    "example": "I'm going to get a computer tomorrow from the discount store.",
+    "image_query": "person receiving a package",
+    "frequency": 5,
+    "tenses": {
+      "present": "get / gets",
+      "past": "got",
+      "past_participle": "gotten",
+      "present_continuous": "getting",
+      "present_continuous_with_aux": "am getting",
+      "past_continuous": "was getting",
+      "present_perfect": "have/has gotten",
+      "past_perfect": "had gotten",
+      "future": "will get",
+      "future_perfect": "will have gotten"
+    }
+  },
+  {
+    "base": "make",
+    "meaning_en": "To build, construct, produce, or originate.",
+    "meaning_es": "hacer / fabricar",
+    "example": "We made a bird feeder for our yard.",
+    "image_query": "person making craft",
+    "frequency": 6,
+    "tenses": {
+      "present": "make / makes",
+      "past": "made",
+      "past_participle": "made",
+      "present_continuous": "making",
+      "present_continuous_with_aux": "am making",
+      "past_continuous": "was making",
+      "present_perfect": "have/has made",
+      "past_perfect": "had made",
+      "future": "will make",
+      "future_perfect": "will have made"
+    }
+  },
+  {
+    "base": "go",
+    "meaning_en": "To move through space (especially to or through a place). (May be used of tangible things such as people or cars, or intangible things such as moods or information.)",
+    "meaning_es": "ir",
+    "example": "Why don’t you go with us?",
+    "image_query": "person going through door",
+    "frequency": 7,
+    "tenses": {
+      "present": "go / goes",
+      "past": "went",
+      "past_participle": "gone",
+      "present_continuous": "going",
+      "present_continuous_with_aux": "am going",
+      "past_continuous": "was going",
+      "present_perfect": "have/has gone",
+      "past_perfect": "had gone",
+      "future": "will go",
+      "future_perfect": "will have gone"
+    }
+  },
+  {
+    "base": "know",
+    "meaning_en": "To perceive the truth or factuality of; to be certain of; to be certain that.",
+    "meaning_es": "saber / conocer",
+    "example": "I know that I’m right and you’re wrong.",
+    "image_query": "person thinking",
+    "frequency": 8,
+    "tenses": {
+      "present": "know / knows",
+      "past": "knew",
+      "past_participle": "known",
+      "present_continuous": "knowing",
+      "present_continuous_with_aux": "am knowing",
+      "past_continuous": "was knowing",
+      "present_perfect": "have/has known",
+      "past_perfect": "had known",
+      "future": "will know",
+      "future_perfect": "will have known"
+    }
+  },
+  {
+    "base": "take",
+    "meaning_en": "To seize or capture.",
+    "meaning_es": "tomar / llevar",
+    "example": "take the guards prisoner",
+    "image_query": "person taking something",
+    "frequency": 9,
+    "tenses": {
+      "present": "take / takes",
+      "past": "took",
+      "past_participle": "taken",
+      "present_continuous": "taking",
+      "present_continuous_with_aux": "am taking",
+      "past_continuous": "was taking",
+      "present_perfect": "have/has taken",
+      "past_perfect": "had taken",
+      "future": "will take",
+      "future_perfect": "will have taken"
+    }
+  },
+  {
+    "base": "see",
+    "meaning_en": "To witness or observe by personal experience.",
+    "meaning_es": "ver",
+    "example": "Now I've seen it all!",
+    "image_query": "person seeing view",
+    "frequency": 10,
+    "tenses": {
+      "present": "see / sees",
+      "past": "saw",
+      "past_participle": "seen",
+      "present_continuous": "seeing",
+      "present_continuous_with_aux": "am seeing",
+      "past_continuous": "was seeing",
+      "present_perfect": "have/has seen",
+      "past_perfect": "had seen",
+      "future": "will see",
+      "future_perfect": "will have seen"
+    }
+  },
+  {
+    "base": "come",
+    "meaning_en": "To move toward the speaker.",
+    "meaning_es": "venir",
+    "example": "I called the dog, but she wouldn't come.",
+    "image_query": "person coming",
+    "frequency": 11,
+    "tenses": {
+      "present": "come / comes",
+      "past": "came",
+      "past_participle": "come",
+      "present_continuous": "coming",
+      "present_continuous_with_aux": "am coming",
+      "past_continuous": "was coming",
+      "present_perfect": "have/has come",
+      "past_perfect": "had come",
+      "future": "will come",
+      "future_perfect": "will have come"
+    }
+  },
+  {
+    "base": "think",
+    "meaning_en": "To ponder, to go over in one's mind.",
+    "meaning_es": "pensar",
+    "example": "Idly, the detective thought what his next move should be.",
+    "image_query": "person thinking thoughts",
+    "frequency": 12,
+    "tenses": {
+      "present": "think / thinks",
+      "past": "thought",
+      "past_participle": "thought",
+      "present_continuous": "thinking",
+      "present_continuous_with_aux": "am thinking",
+      "past_continuous": "was thinking",
+      "present_perfect": "have/has thought",
+      "past_perfect": "had thought",
+      "future": "will think",
+      "future_perfect": "will have thought"
+    }
+  },
+  {
+    "base": "give",
+    "meaning_en": "To transfer one's possession or holding of (something) to (someone).",
+    "meaning_es": "dar",
+    "example": "I gave him my coat.",
+    "image_query": "person giving a gift",
+    "frequency": 13,
+    "tenses": {
+      "present": "give / gives",
+      "past": "gave",
+      "past_participle": "given",
+      "present_continuous": "giving",
+      "present_continuous_with_aux": "am giving",
+      "past_continuous": "was giving",
+      "present_perfect": "have/has given",
+      "past_perfect": "had given",
+      "future": "will give",
+      "future_perfect": "will have given"
+    }
+  },
+  {
+    "base": "find",
+    "meaning_en": "To encounter or discover by accident; to happen upon.",
+    "meaning_es": "encontrar",
+    "example": "I found this shell on the beach.",
+    "image_query": "person finding something",
+    "frequency": 14,
+    "tenses": {
+      "present": "find / finds",
+      "past": "found",
+      "past_participle": "found",
+      "present_continuous": "finding",
+      "present_continuous_with_aux": "am finding",
+      "past_continuous": "was finding",
+      "present_perfect": "have/has found",
+      "past_perfect": "had found",
+      "future": "will find",
+      "future_perfect": "will have found"
+    }
+  },
+  {
+    "base": "tell",
+    "meaning_en": "To determine the number, amount, or value of [something].",
+    "meaning_es": "decir / contar",
+    "example": "All told, there were over a dozen.  Can you tell time on a clock?  He had untold wealth.",
+    "image_query": "person telling a story",
+    "frequency": 15,
+    "tenses": {
+      "present": "tell / tells",
+      "past": "told",
+      "past_participle": "told",
+      "present_continuous": "telling",
+      "present_continuous_with_aux": "am telling",
+      "past_continuous": "was telling",
+      "present_perfect": "have/has told",
+      "past_perfect": "had told",
+      "future": "will tell",
+      "future_perfect": "will have told"
+    }
+  },
+  {
+    "base": "run",
+    "meaning_en": "To move forward quickly upon two feet by alternately making a short jump off either foot.",
+    "meaning_es": "correr",
+    "example": "Run, and you might still catch the train!",
+    "image_query": "person running on street",
+    "frequency": 16,
+    "tenses": {
+      "present": "run / runs",
+      "past": "ran",
+      "past_participle": "run",
+      "present_continuous": "running",
+      "present_continuous_with_aux": "am running",
+      "past_continuous": "was running",
+      "present_perfect": "have/has run",
+      "past_perfect": "had run",
+      "future": "will run",
+      "future_perfect": "will have run"
+    }
+  },
+  {
+    "base": "eat",
+    "meaning_en": "To consume (something solid or semi-solid, usually food) by putting it into the mouth and swallowing it.",
+    "meaning_es": "comer",
+    "example": "He's eating an apple. / Don't disturb me now; can't you see that I'm eating?",
+    "image_query": "person eating food",
+    "frequency": 17,
+    "tenses": {
+      "present": "eat / eats",
+      "past": "ate",
+      "past_participle": "eaten",
+      "present_continuous": "eating",
+      "present_continuous_with_aux": "am eating",
+      "past_continuous": "was eating",
+      "present_perfect": "have/has eaten",
+      "past_perfect": "had eaten",
+      "future": "will eat",
+      "future_perfect": "will have eaten"
+    }
+  },
+  {
+    "base": "drink",
+    "meaning_en": "To consume (a liquid) through the mouth.",
+    "meaning_es": "beber",
+    "example": "He drank the water I gave him.",
+    "image_query": "person drinking water",
+    "frequency": 18,
+    "tenses": {
+      "present": "drink / drinks",
+      "past": "drank",
+      "past_participle": "drunk",
+      "present_continuous": "drinking",
+      "present_continuous_with_aux": "am drinking",
+      "past_continuous": "was drinking",
+      "present_perfect": "have/has drunk",
+      "past_perfect": "had drunk",
+      "future": "will drink",
+      "future_perfect": "will have drunk"
+    }
+  },
+  {
+    "base": "sleep",
+    "meaning_en": "To rest in a state of reduced consciousness.",
+    "meaning_es": "dormir",
+    "example": "You should sleep eight hours a day.",
+    "image_query": "person sleeping in bed",
+    "frequency": 19,
+    "tenses": {
+      "present": "sleep / sleeps",
+      "past": "slept",
+      "past_participle": "slept",
+      "present_continuous": "sleeping",
+      "present_continuous_with_aux": "am sleeping",
+      "past_continuous": "was sleeping",
+      "present_perfect": "have/has slept",
+      "past_perfect": "had slept",
+      "future": "will sleep",
+      "future_perfect": "will have slept"
+    }
+  },
+  {
+    "base": "write",
+    "meaning_en": "To form letters, words or symbols on a surface in order to communicate.",
+    "meaning_es": "escribir",
+    "example": "The pupil wrote his name on the paper.",
+    "image_query": "person writing a note",
+    "frequency": 20,
+    "tenses": {
+      "present": "write / writes",
+      "past": "wrote",
+      "past_participle": "written",
+      "present_continuous": "writing",
+      "present_continuous_with_aux": "am writing",
+      "past_continuous": "was writing",
+      "present_perfect": "have/has written",
+      "past_perfect": "had written",
+      "future": "will write",
+      "future_perfect": "will have written"
+    }
+  },
+  {
+    "base": "read",
+    "meaning_en": "To be understood or physically read in a specific way.",
+    "meaning_es": "leer",
+    "example": "Arabic reads right to left.",
+    "image_query": "person reading a book",
+    "frequency": 21,
+    "tenses": {
+      "present": "read / reads",
+      "past": "read",
+      "past_participle": "read",
+      "present_continuous": "reading",
+      "present_continuous_with_aux": "am reading",
+      "past_continuous": "was reading",
+      "present_perfect": "have/has read",
+      "past_perfect": "had read",
+      "future": "will read",
+      "future_perfect": "will have read"
+    }
+  },
+  {
+    "base": "speak",
+    "meaning_en": "To communicate with one's voice, to say words out loud.",
+    "meaning_es": "hablar",
+    "example": "I was so surprised I couldn't speak.",
+    "image_query": "person speaking on stage",
+    "frequency": 22,
+    "tenses": {
+      "present": "speak / speaks",
+      "past": "spoke",
+      "past_participle": "spoken",
+      "present_continuous": "speaking",
+      "present_continuous_with_aux": "am speaking",
+      "past_continuous": "was speaking",
+      "present_perfect": "have/has spoken",
+      "past_perfect": "had spoken",
+      "future": "will speak",
+      "future_perfect": "will have spoken"
+    }
+  },
+  {
+    "base": "buy",
+    "meaning_en": "To obtain (something) in exchange for money or goods.",
+    "meaning_es": "comprar",
+    "example": "Who'd Father buy the car for? He bought it for me, not for you.",
+    "image_query": "person buying groceries",
+    "frequency": 23,
+    "tenses": {
+      "present": "buy / buys",
+      "past": "bought",
+      "past_participle": "bought",
+      "present_continuous": "buying",
+      "present_continuous_with_aux": "am buying",
+      "past_continuous": "was buying",
+      "present_perfect": "have/has bought",
+      "past_perfect": "had bought",
+      "future": "will buy",
+      "future_perfect": "will have bought"
+    }
+  },
+  {
+    "base": "sell",
+    "meaning_en": "To transfer goods or provide services in exchange for money.",
+    "meaning_es": "vender",
+    "example": "She sold her old car very quickly.",
+    "image_query": "person selling at market",
+    "frequency": 24,
+    "tenses": {
+      "present": "sell / sells",
+      "past": "sold",
+      "past_participle": "sold",
+      "present_continuous": "selling",
+      "present_continuous_with_aux": "am selling",
+      "past_continuous": "was selling",
+      "present_perfect": "have/has sold",
+      "past_perfect": "had sold",
+      "future": "will sell",
+      "future_perfect": "will have sold"
+    }
+  },
+  {
+    "base": "pay",
+    "meaning_en": "To give money or other compensation to in exchange for goods or services.",
+    "meaning_es": "pagar",
+    "example": "How much will the job pay?",
+    "image_query": "person paying with card",
+    "frequency": 25,
+    "tenses": {
+      "present": "pay / pays",
+      "past": "paid",
+      "past_participle": "paid",
+      "present_continuous": "paying",
+      "present_continuous_with_aux": "am paying",
+      "past_continuous": "was paying",
+      "present_perfect": "have/has paid",
+      "past_perfect": "had paid",
+      "future": "will pay",
+      "future_perfect": "will have paid"
+    }
+  },
+  {
+    "base": "bring",
+    "meaning_en": "To transport toward somebody/somewhere.",
+    "meaning_es": "traer",
+    "example": "Waiter, please bring me a single malt whiskey.",
+    "image_query": "person bringing a box",
+    "frequency": 26,
+    "tenses": {
+      "present": "bring / brings",
+      "past": "brought",
+      "past_participle": "brought",
+      "present_continuous": "bringing",
+      "present_continuous_with_aux": "am bringing",
+      "past_continuous": "was bringing",
+      "present_perfect": "have/has brought",
+      "past_perfect": "had brought",
+      "future": "will bring",
+      "future_perfect": "will have brought"
+    }
+  },
+  {
+    "base": "become",
+    "meaning_en": "begin to be; turn into (often with permanent states).",
+    "meaning_es": "convertirse en",
+    "example": "Near-synonyms: get, turn, go, come, fall, grow, wax",
+    "image_query": "person becoming successful",
+    "frequency": 27,
+    "tenses": {
+      "present": "become / becomes",
+      "past": "became",
+      "past_participle": "become",
+      "present_continuous": "becoming",
+      "present_continuous_with_aux": "am becoming",
+      "past_continuous": "was becoming",
+      "present_perfect": "have/has become",
+      "past_perfect": "had become",
+      "future": "will become",
+      "future_perfect": "will have become"
+    }
+  },
+  {
+    "base": "build",
+    "meaning_en": "To be converted into software by compilation, usually with minimal human intervention.",
+    "meaning_es": "construir",
+    "example": "This code won’t build any more. Have you made any changes?",
+    "image_query": "person building with bricks",
+    "frequency": 28,
+    "tenses": {
+      "present": "build / builds",
+      "past": "built",
+      "past_participle": "built",
+      "present_continuous": "building",
+      "present_continuous_with_aux": "am building",
+      "past_continuous": "was building",
+      "present_perfect": "have/has built",
+      "past_perfect": "had built",
+      "future": "will build",
+      "future_perfect": "will have built"
+    }
+  },
+  {
+    "base": "break",
+    "meaning_en": "To crack or fracture (bone) under a physical strain.",
+    "meaning_es": "romper",
+    "example": "His ribs broke under the weight of the rocks piled on his chest.",
+    "image_query": "broken glass",
+    "frequency": 29,
+    "tenses": {
+      "present": "break / breaks",
+      "past": "broke",
+      "past_participle": "broken",
+      "present_continuous": "breaking",
+      "present_continuous_with_aux": "am breaking",
+      "past_continuous": "was breaking",
+      "present_perfect": "have/has broken",
+      "past_perfect": "had broken",
+      "future": "will break",
+      "future_perfect": "will have broken"
+    }
+  },
+  {
+    "base": "choose",
+    "meaning_en": "To pick; to make the choice of; to select.",
+    "meaning_es": "elegir",
+    "example": "I chose a nice ripe apple from the fruit bowl.",
+    "image_query": "person choosing options",
+    "frequency": 30,
+    "tenses": {
+      "present": "choose / chooses",
+      "past": "chose",
+      "past_participle": "chosen",
+      "present_continuous": "choosing",
+      "present_continuous_with_aux": "am choosing",
+      "past_continuous": "was choosing",
+      "present_perfect": "have/has chosen",
+      "past_perfect": "had chosen",
+      "future": "will choose",
+      "future_perfect": "will have chosen"
+    }
+  },
+  {
+    "base": "cut",
+    "meaning_en": "To separate or omit, in a situation where one was previously associated.",
+    "meaning_es": "cortar",
+    "example": "Travis was cut from the team.",
+    "image_query": "person cutting vegetables",
+    "frequency": 31,
+    "tenses": {
+      "present": "cut / cuts",
+      "past": "cut",
+      "past_participle": "cut",
+      "present_continuous": "cutting",
+      "present_continuous_with_aux": "am cutting",
+      "past_continuous": "was cutting",
+      "present_perfect": "have/has cut",
+      "past_perfect": "had cut",
+      "future": "will cut",
+      "future_perfect": "will have cut"
+    }
+  },
+  {
+    "base": "drive",
+    "meaning_en": "To operate (a wheeled motorized vehicle).",
+    "meaning_es": "conducir",
+    "example": "The bridges weren't strong enough to drive (campers) over.",
+    "image_query": "person driving a car",
+    "frequency": 32,
+    "tenses": {
+      "present": "drive / drives",
+      "past": "drove",
+      "past_participle": "driven",
+      "present_continuous": "driving",
+      "present_continuous_with_aux": "am driving",
+      "past_continuous": "was driving",
+      "present_perfect": "have/has driven",
+      "past_perfect": "had driven",
+      "future": "will drive",
+      "future_perfect": "will have driven"
+    }
+  },
+  {
+    "base": "fall",
+    "meaning_en": "To move to a lower position under the effect of gravity.",
+    "meaning_es": "caer",
+    "example": "Thrown from a cliff, the stone fell 100 feet before hitting the ground.",
+    "image_query": "person falling",
+    "frequency": 33,
+    "tenses": {
+      "present": "fall / falls",
+      "past": "fell",
+      "past_participle": "fallen",
+      "present_continuous": "falling",
+      "present_continuous_with_aux": "am falling",
+      "past_continuous": "was falling",
+      "present_perfect": "have/has fallen",
+      "past_perfect": "had fallen",
+      "future": "will fall",
+      "future_perfect": "will have fallen"
+    }
+  },
+  {
+    "base": "feel",
+    "meaning_en": "To become aware of through the skin; to use the sense of touch on.",
+    "meaning_es": "sentir",
+    "example": "You can feel a heartbeat if you put your fingers on your breast.",
+    "image_query": "person touching fabric",
+    "frequency": 34,
+    "tenses": {
+      "present": "feel / feels",
+      "past": "felt",
+      "past_participle": "felt",
+      "present_continuous": "feeling",
+      "present_continuous_with_aux": "am feeling",
+      "past_continuous": "was feeling",
+      "present_perfect": "have/has felt",
+      "past_perfect": "had felt",
+      "future": "will feel",
+      "future_perfect": "will have felt"
+    }
+  },
+  {
+    "base": "fly",
+    "meaning_en": "To travel through the air, another gas, or a vacuum, without being in contact with a grounded surface.",
+    "meaning_es": "volar",
+    "example": "Birds of passage fly to warmer regions as it gets colder in winter.",
+    "image_query": "airplane flying in sky",
+    "frequency": 35,
+    "tenses": {
+      "present": "fly / flies",
+      "past": "flew",
+      "past_participle": "flown",
+      "present_continuous": "flying",
+      "present_continuous_with_aux": "am flying",
+      "past_continuous": "was flying",
+      "present_perfect": "have/has flown",
+      "past_perfect": "had flown",
+      "future": "will fly",
+      "future_perfect": "will have flown"
+    }
+  },
+  {
+    "base": "forget",
+    "meaning_en": "To lose remembrance of.",
+    "meaning_es": "olvidar",
+    "example": "I have forgotten most of the things I learned in school.",
+    "image_query": "person forgetting keys",
+    "frequency": 36,
+    "tenses": {
+      "present": "forget / forgets",
+      "past": "forgot",
+      "past_participle": "forgotten",
+      "present_continuous": "forgetting",
+      "present_continuous_with_aux": "am forgetting",
+      "past_continuous": "was forgetting",
+      "present_perfect": "have/has forgotten",
+      "past_perfect": "had forgotten",
+      "future": "will forget",
+      "future_perfect": "will have forgotten"
+    }
+  },
+  {
+    "base": "grow",
+    "meaning_en": "To become larger, to increase in magnitude.",
+    "meaning_es": "crecer",
+    "example": "Children grow quickly.",
+    "image_query": "plant growing",
+    "frequency": 37,
+    "tenses": {
+      "present": "grow / grows",
+      "past": "grew",
+      "past_participle": "grown",
+      "present_continuous": "growing",
+      "present_continuous_with_aux": "am growing",
+      "past_continuous": "was growing",
+      "present_perfect": "have/has grown",
+      "past_perfect": "had grown",
+      "future": "will grow",
+      "future_perfect": "will have grown"
+    }
+  },
+  {
+    "base": "hear",
+    "meaning_en": "To perceive sounds through the ear.",
+    "meaning_es": "oír",
+    "example": "I was deaf, but now I can hear.",
+    "image_query": "person listening music",
+    "frequency": 38,
+    "tenses": {
+      "present": "hear / hears",
+      "past": "heard",
+      "past_participle": "heard",
+      "present_continuous": "hearing",
+      "present_continuous_with_aux": "am hearing",
+      "past_continuous": "was hearing",
+      "present_perfect": "have/has heard",
+      "past_perfect": "had heard",
+      "future": "will hear",
+      "future_perfect": "will have heard"
+    }
+  },
+  {
+    "base": "hold",
+    "meaning_en": "To grasp or grip.",
+    "meaning_es": "sostener / sujetar",
+    "example": "Hold the pencil like this.",
+    "image_query": "person holding a cup",
+    "frequency": 39,
+    "tenses": {
+      "present": "hold / holds",
+      "past": "held",
+      "past_participle": "held",
+      "present_continuous": "holding",
+      "present_continuous_with_aux": "am holding",
+      "past_continuous": "was holding",
+      "present_perfect": "have/has held",
+      "past_perfect": "had held",
+      "future": "will hold",
+      "future_perfect": "will have held"
+    }
+  },
+  {
+    "base": "keep",
+    "meaning_en": "To continue in (a course or mode of action); to not intermit or fall from; to uphold or maintain.",
+    "meaning_es": "mantener / guardar",
+    "example": "to keep silence;  to keep possession",
+    "image_query": "person keeping a wallet",
+    "frequency": 40,
+    "tenses": {
+      "present": "keep / keeps",
+      "past": "kept",
+      "past_participle": "kept",
+      "present_continuous": "keeping",
+      "present_continuous_with_aux": "am keeping",
+      "past_continuous": "was keeping",
+      "present_perfect": "have/has kept",
+      "past_perfect": "had kept",
+      "future": "will keep",
+      "future_perfect": "will have kept"
+    }
+  },
+  {
+    "base": "leave",
+    "meaning_en": "To cause or allow (something) to remain as available; to refrain from taking (something) away; to stop short of consuming or otherwise depleting (something) entirely.",
+    "meaning_es": "irse / dejar",
+    "example": "I left my car at home and took a bus to work.",
+    "image_query": "person leaving home",
+    "frequency": 41,
+    "tenses": {
+      "present": "leave / leaves",
+      "past": "left",
+      "past_participle": "left",
+      "present_continuous": "leaving",
+      "present_continuous_with_aux": "am leaving",
+      "past_continuous": "was leaving",
+      "present_perfect": "have/has left",
+      "past_perfect": "had left",
+      "future": "will leave",
+      "future_perfect": "will have left"
+    }
+  },
+  {
+    "base": "meet",
+    "meaning_en": "To come face to face with by accident; to encounter.",
+    "meaning_es": "conocer / encontrarse",
+    "example": "Fancy meeting you here! Guess who I met at the supermarket today?",
+    "image_query": "people meeting handshake",
+    "frequency": 42,
+    "tenses": {
+      "present": "meet / meets",
+      "past": "met",
+      "past_participle": "met",
+      "present_continuous": "meeting",
+      "present_continuous_with_aux": "am meeting",
+      "past_continuous": "was meeting",
+      "present_perfect": "have/has met",
+      "past_perfect": "had met",
+      "future": "will meet",
+      "future_perfect": "will have met"
+    }
+  },
+  {
+    "base": "put",
+    "meaning_en": "To physically place (sth or sb swh).",
+    "meaning_es": "poner",
+    "example": "She put her books on the table.",
+    "image_query": "person putting a box on table",
+    "frequency": 43,
+    "tenses": {
+      "present": "put / puts",
+      "past": "put",
+      "past_participle": "put",
+      "present_continuous": "putting",
+      "present_continuous_with_aux": "am putting",
+      "past_continuous": "was putting",
+      "present_perfect": "have/has put",
+      "past_perfect": "had put",
+      "future": "will put",
+      "future_perfect": "will have put"
+    }
+  },
+  {
+    "base": "sit",
+    "meaning_en": "To be in a position in which the upper body is upright and supported by the buttocks.",
+    "meaning_es": "sentarse",
+    "example": "After a long day of walking, it was good just to sit and relax.",
+    "image_query": "person sitting on chair",
+    "frequency": 44,
+    "tenses": {
+      "present": "sit / sits",
+      "past": "sat",
+      "past_participle": "sat",
+      "present_continuous": "sitting",
+      "present_continuous_with_aux": "am sitting",
+      "past_continuous": "was sitting",
+      "present_perfect": "have/has sat",
+      "past_perfect": "had sat",
+      "future": "will sit",
+      "future_perfect": "will have sat"
+    }
+  },
+  {
+    "base": "stand",
+    "meaning_en": "To support oneself on the feet in an erect position.",
+    "meaning_es": "ponerse de pie",
+    "example": "Here I stand, wondering what to do next.",
+    "image_query": "person standing up",
+    "frequency": 45,
+    "tenses": {
+      "present": "stand / stands",
+      "past": "stood",
+      "past_participle": "stood",
+      "present_continuous": "standing",
+      "present_continuous_with_aux": "am standing",
+      "past_continuous": "was standing",
+      "present_perfect": "have/has stood",
+      "past_perfect": "had stood",
+      "future": "will stand",
+      "future_perfect": "will have stood"
+    }
+  },
+  {
+    "base": "swim",
+    "meaning_en": "To become immersed in, or as if in, or flooded with, or as if with, a liquid.",
+    "meaning_es": "nadar",
+    "example": "swimming in self-pity",
+    "image_query": "person swimming in pool",
+    "frequency": 46,
+    "tenses": {
+      "present": "swim / swims",
+      "past": "swam",
+      "past_participle": "swum",
+      "present_continuous": "swimming",
+      "present_continuous_with_aux": "am swimming",
+      "past_continuous": "was swimming",
+      "present_perfect": "have/has swum",
+      "past_perfect": "had swum",
+      "future": "will swim",
+      "future_perfect": "will have swum"
+    }
+  },
+  {
+    "base": "teach",
+    "meaning_en": "To pass on knowledge to.",
+    "meaning_es": "enseñar",
+    "example": "Can you teach me to sew?  Can you teach sewing to me?",
+    "image_query": "teacher teaching class",
+    "frequency": 47,
+    "tenses": {
+      "present": "teach / teaches",
+      "past": "taught",
+      "past_participle": "taught",
+      "present_continuous": "teaching",
+      "present_continuous_with_aux": "am teaching",
+      "past_continuous": "was teaching",
+      "present_perfect": "have/has taught",
+      "past_perfect": "had taught",
+      "future": "will teach",
+      "future_perfect": "will have taught"
+    }
+  },
+  {
+    "base": "win",
+    "meaning_en": "To reach some destination or object, despite difficulty or toil (now usually intransitive, with preposition or locative adverb).",
+    "meaning_es": "ganar",
+    "example": "I well may gang out, love, but I'll never win home.",
+    "image_query": "person winning trophy",
+    "frequency": 48,
+    "tenses": {
+      "present": "win / wins",
+      "past": "won",
+      "past_participle": "won",
+      "present_continuous": "winning",
+      "present_continuous_with_aux": "am winning",
+      "past_continuous": "was winning",
+      "present_perfect": "have/has won",
+      "past_perfect": "had won",
+      "future": "will win",
+      "future_perfect": "will have won"
+    }
+  },
+  {
+    "base": "sing",
+    "meaning_en": "To produce musical or harmonious sounds with one’s voice.",
+    "meaning_es": "cantar",
+    "example": "\"I really want to sing in the school choir,\" said Vera.",
+    "image_query": "person singing microphone",
+    "frequency": 49,
+    "tenses": {
+      "present": "sing / sings",
+      "past": "sang",
+      "past_participle": "sung",
+      "present_continuous": "singing",
+      "present_continuous_with_aux": "am singing",
+      "past_continuous": "was singing",
+      "present_perfect": "have/has sung",
+      "past_perfect": "had sung",
+      "future": "will sing",
+      "future_perfect": "will have sung"
+    }
+  },
+  {
+    "base": "understand",
+    "meaning_en": "To be thoroughly familiar with; to be able to undertake properly.",
+    "meaning_es": "entender",
+    "example": "The students understood the assignment.",
+    "image_query": "person understanding conversation",
+    "frequency": 50,
+    "tenses": {
+      "present": "understand / understands",
+      "past": "understood",
+      "past_participle": "understood",
+      "present_continuous": "understanding",
+      "present_continuous_with_aux": "am understanding",
+      "past_continuous": "was understanding",
+      "present_perfect": "have/has understood",
+      "past_perfect": "had understood",
+      "future": "will understand",
+      "future_perfect": "will have understood"
+    }
+  }
+]
