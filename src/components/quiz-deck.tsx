@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   motion,
   useMotionValue,
@@ -13,7 +13,6 @@ import { useProgress } from "@/hooks/use-progress";
 import { PronounceButton } from "./pronounce-button";
 import { VerbImage } from "./verb-image";
 import { Confetti } from "./confetti";
-import { throttle } from "@/lib/throttle";
 import type { Verb } from "@/lib/types";
 
 export function QuizDeck({
@@ -31,6 +30,7 @@ export function QuizDeck({
   const [score, setScore] = useState(0);
   const [confetti, setConfetti] = useState(false);
   const [leaving, setLeaving] = useState<"left" | "right" | null>(null);
+  const [locked, setLocked] = useState(false);
 
   const x = useMotionValue(0);
   const rotate = useTransform(x, [-220, 220], [-14, 14]);
@@ -54,20 +54,19 @@ export function QuizDeck({
     setIndex((i) => i + 1);
   };
 
-  const nextRef = useRef(next);
-  nextRef.current = next;
-  const throttledNext = useMemo(
-    () => throttle(() => nextRef.current(), 500),
-    [],
-  );
-
-  useEffect(() => {
-    throttledNext.reset();
-  }, [index, throttledNext]);
+  const goNext = () => {
+    if (locked) return;
+    setLocked(true);
+    next();
+    window.setTimeout(() => setLocked(false), 500);
+  };
 
   const advance = (dir: "left" | "right") => {
+    if (locked) return;
+    setLocked(true);
     setLeaving(dir);
-    window.setTimeout(throttledNext, 300);
+    window.setTimeout(next, 300);
+    window.setTimeout(() => setLocked(false), 500);
   };
 
   if (isFinished) return null;
@@ -120,7 +119,7 @@ export function QuizDeck({
                 const { offset, velocity } = info;
                 const power =
                   Math.abs(offset.x) + Math.abs(velocity.x) * 0.4;
-                if (power < 120) return;
+                if (power < 120 || locked) return;
                 if (offset.x < 0) advance("left");
                 else advance("right");
               }}
@@ -231,9 +230,10 @@ export function QuizDeck({
                 <>Incorrecto — era&nbsp;“{question.correct}”</>
               )}
             </div>
-            <button
-              onClick={throttledNext}
-              className="mt-3 w-full rounded-2xl bg-accent px-4 py-4 text-base font-semibold text-accent-foreground shadow-lg shadow-accent/20"
+<button
+              onClick={goNext}
+              disabled={locked}
+              className={`mt-3 w-full rounded-2xl bg-accent px-4 py-4 text-base font-semibold text-accent-foreground shadow-lg shadow-accent/20 transition-opacity ${locked ? "opacity-50" : ""}`}
             >
               Siguiente →
             </button>
