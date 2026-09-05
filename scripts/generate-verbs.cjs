@@ -6,6 +6,12 @@ const Gerunds = require("english-verbs-gerunds/dist/gerunds.json");
 
 const VERBS_INFO = h.mergeVerbsData(Irregular, Gerunds);
 
+const PAST_OVERRIDES = {
+  hug: "hugged",
+  pet: "petted",
+  shop: "shopped",
+};
+
 const SOURCE = path.join(__dirname, "..", "data", "verbs-source.json");
 const CACHE = path.join(__dirname, "..", "data", "dictionary-cache.json");
 const OUT = path.join(__dirname, "..", "src", "data", "verbs.json");
@@ -15,20 +21,34 @@ const cache = fs.existsSync(CACHE)
   ? JSON.parse(fs.readFileSync(CACHE, "utf8"))
   : {};
 
+function conjugation(base, tense, person) {
+  try {
+    return h.getConjugation(VERBS_INFO, base, tense, person) ?? "";
+  } catch {
+    return "";
+  }
+}
+
+function pastFor(base) {
+  return PAST_OVERRIDES[base] ?? conjugation(base, "SIMPLE_PAST", 0);
+}
+
 function tensesFor(base) {
-  const present = h.getConjugation(VERBS_INFO, base, "SIMPLE_PRESENT", 0);
-  const present3 = h.getConjugation(VERBS_INFO, base, "SIMPLE_PRESENT", 2);
+  const present = conjugation(base, "SIMPLE_PRESENT", 0);
+  const present3 = conjugation(base, "SIMPLE_PRESENT", 2);
+  const past = pastFor(base);
   return {
     present: present3 === present ? present : `${present} / ${present3}`,
-    past: h.getConjugation(VERBS_INFO, base, "SIMPLE_PAST", 0),
-    past_participle: h.getConjugation(VERBS_INFO, base, "PARTICIPLE_PAST", 0),
-    present_continuous: h.getConjugation(VERBS_INFO, base, "PARTICIPLE_PRESENT", 0),
-    present_continuous_with_aux: h.getConjugation(VERBS_INFO, base, "PROGRESSIVE_PRESENT", 0),
-    past_continuous: h.getConjugation(VERBS_INFO, base, "PROGRESSIVE_PAST", 0),
-    present_perfect: `have/has ${h.getConjugation(VERBS_INFO, base, "PARTICIPLE_PAST", 0)}`,
-    past_perfect: h.getConjugation(VERBS_INFO, base, "PERFECT_PAST", 0),
-    future: h.getConjugation(VERBS_INFO, base, "SIMPLE_FUTURE", 0),
-    future_perfect: h.getConjugation(VERBS_INFO, base, "PERFECT_FUTURE", 0),
+    past,
+    past_participle:
+      PAST_OVERRIDES[base] ?? conjugation(base, "PARTICIPLE_PAST", 0),
+    present_continuous: conjugation(base, "PARTICIPLE_PRESENT", 0),
+    present_continuous_with_aux: conjugation(base, "PROGRESSIVE_PRESENT", 0),
+    past_continuous: conjugation(base, "PROGRESSIVE_PAST", 0),
+    present_perfect: `have/has ${PAST_OVERRIDES[base] ?? conjugation(base, "PARTICIPLE_PAST", 0)}`,
+    past_perfect: conjugation(base, "PERFECT_PAST", 0),
+    future: conjugation(base, "SIMPLE_FUTURE", 0),
+    future_perfect: conjugation(base, "PERFECT_FUTURE", 0),
   };
 }
 
@@ -94,18 +114,27 @@ async function fetchMeaning(base) {
 
 async function main() {
   const out = [];
-  let i = 0;
+  let processed = 0;
+  let skipped = 0;
   for (const item of source) {
-    i += 1;
-    process.stdout.write(`[${i}/${source.length}] ${item.base} ... `);
+    processed += 1;
+    process.stdout.write(`[${processed}/${source.length}] ${item.base} ... `);
+
+    if (!conjugation(item.base, "SIMPLE_PRESENT", 0)) {
+      console.log("skipped (no en la librería de conjugación)");
+      skipped += 1;
+      continue;
+    }
+
     const meaning = await fetchMeaning(item.base);
+    const gerund = conjugation(item.base, "PARTICIPLE_PRESENT", 0);
     out.push({
       base: item.base,
       meaning_en: meaning.meaning_en,
       meaning_es: item.meaning_es,
       example: meaning.example ?? `They ${item.base} every day.`,
-      image_query: item.image_query,
-      frequency: i,
+      image_query: item.image_query ?? gerund,
+      frequency: out.length + 1,
       tenses: tensesFor(item.base),
     });
     console.log("ok");
@@ -115,7 +144,7 @@ async function main() {
   fs.writeFileSync(CACHE, JSON.stringify(cache, null, 2));
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(out, null, 2));
-  console.log(`\n✓ Escrito ${out.length} verbos en ${OUT}`);
+  console.log(`\n✓ Escritos ${out.length} verbos en ${OUT} (${skipped} omitidos)`);
 }
 
 main().catch((err) => {

@@ -998,5 +998,3725 @@
       "future": "will understand",
       "future_perfect": "will have understood"
     }
+  },
+  {
+    "base": "cook",
+    "meaning_en": "To prepare food for eating by heating it, often combining with other ingredients.",
+    "meaning_es": "cocinar",
+    "example": "I'm cooking bangers and mash.",
+    "image_query": "person cooking in kitchen",
+    "frequency": 51,
+    "tenses": {
+      "present": "cook / cooks",
+      "past": "cooked",
+      "past_participle": "cooked",
+      "present_continuous": "cooking",
+      "present_continuous_with_aux": "am cooking",
+      "past_continuous": "was cooking",
+      "present_perfect": "have/has cooked",
+      "past_perfect": "had cooked",
+      "future": "will cook",
+      "future_perfect": "will have cooked"
+    }
+  },
+  {
+    "base": "bake",
+    "meaning_en": "To cook (something) in an oven (for someone).",
+    "meaning_es": "hornear",
+    "example": "I baked a delicious cherry pie.",
+    "image_query": "person baking cake",
+    "frequency": 52,
+    "tenses": {
+      "present": "bake / bakes",
+      "past": "baked",
+      "past_participle": "baked",
+      "present_continuous": "baking",
+      "present_continuous_with_aux": "am baking",
+      "past_continuous": "was baking",
+      "present_perfect": "have/has baked",
+      "past_perfect": "had baked",
+      "future": "will bake",
+      "future_perfect": "will have baked"
+    }
+  },
+  {
+    "base": "fry",
+    "meaning_en": "To cook (something) in hot fat.",
+    "meaning_es": "freír",
+    "example": "I am frying the eggs.",
+    "image_query": "person frying food pan",
+    "frequency": 53,
+    "tenses": {
+      "present": "fry / fries",
+      "past": "fried",
+      "past_participle": "fried",
+      "present_continuous": "frying",
+      "present_continuous_with_aux": "am frying",
+      "past_continuous": "was frying",
+      "present_perfect": "have/has fried",
+      "past_perfect": "had fried",
+      "future": "will fry",
+      "future_perfect": "will have fried"
+    }
+  },
+  {
+    "base": "boil",
+    "meaning_en": "To heat to the point where it begins to turn into a gas.",
+    "meaning_es": "hervir",
+    "example": "Boil some water in a pan.",
+    "image_query": "pot boiling water stove",
+    "frequency": 54,
+    "tenses": {
+      "present": "boil / boils",
+      "past": "boiled",
+      "past_participle": "boiled",
+      "present_continuous": "boiling",
+      "present_continuous_with_aux": "am boiling",
+      "past_continuous": "was boiling",
+      "present_perfect": "have/has boiled",
+      "past_perfect": "had boiled",
+      "future": "will boil",
+      "future_perfect": "will have boiled"
+    }
+  },
+  {
+    "base": "walk",
+    "meaning_en": "To move on the feet by alternately setting each foot (or pair or group of feet, in the case of animals with four or more feet) forward, with at least one foot on the ground at all times. Compare run.",
+    "meaning_es": "caminar",
+    "example": "To walk briskly for an hour every day is to keep fit.",
+    "image_query": "person walking on sidewalk",
+    "frequency": 55,
+    "tenses": {
+      "present": "walk / walks",
+      "past": "walked",
+      "past_participle": "walked",
+      "present_continuous": "walking",
+      "present_continuous_with_aux": "am walking",
+      "past_continuous": "was walking",
+      "present_perfect": "have/has walked",
+      "past_perfect": "had walked",
+      "future": "will walk",
+      "future_perfect": "will have walked"
+    }
+  },
+  {
+    "base": "jump",
+    "meaning_en": "To propel oneself rapidly upward, downward and/or in any horizontal direction such that momentum causes the body to become airborne.",
+    "meaning_es": "saltar",
+    "example": "The boy jumped over a fence.",
+    "image_query": "person jumping in air",
+    "frequency": 56,
+    "tenses": {
+      "present": "jump / jumps",
+      "past": "jumped",
+      "past_participle": "jumped",
+      "present_continuous": "jumping",
+      "present_continuous_with_aux": "am jumping",
+      "past_continuous": "was jumping",
+      "present_perfect": "have/has jumped",
+      "past_perfect": "had jumped",
+      "future": "will jump",
+      "future_perfect": "will have jumped"
+    }
+  },
+  {
+    "base": "dance",
+    "meaning_en": "To move with rhythmic steps or movements, especially in time to music.",
+    "meaning_es": "bailar",
+    "example": "I danced with her all night long.",
+    "image_query": "people dancing salsa",
+    "frequency": 57,
+    "tenses": {
+      "present": "dance / dances",
+      "past": "danced",
+      "past_participle": "danced",
+      "present_continuous": "dancing",
+      "present_continuous_with_aux": "am dancing",
+      "past_continuous": "was dancing",
+      "present_perfect": "have/has danced",
+      "past_perfect": "had danced",
+      "future": "will dance",
+      "future_perfect": "will have danced"
+    }
+  },
+  {
+    "base": "climb",
+    "meaning_en": "To move to a higher position on a chart or hierarchy.",
+    "meaning_es": "trepar / subir",
+    "example": "The hit song has climbed to the number one spot.",
+    "image_query": "person climbing mountain",
+    "frequency": 58,
+    "tenses": {
+      "present": "climb / climbs",
+      "past": "climbed",
+      "past_participle": "climbed",
+      "present_continuous": "climbing",
+      "present_continuous_with_aux": "am climbing",
+      "past_continuous": "was climbing",
+      "present_perfect": "have/has climbed",
+      "past_perfect": "had climbed",
+      "future": "will climb",
+      "future_perfect": "will have climbed"
+    }
+  },
+  {
+    "base": "carry",
+    "meaning_en": "To notionally transfer from one place (such as a country, book, or column) to another.",
+    "meaning_es": "cargar / llevar",
+    "example": "to carry the war from Greece into Asia",
+    "image_query": "person carrying box",
+    "frequency": 59,
+    "tenses": {
+      "present": "carry / carries",
+      "past": "carried",
+      "past_participle": "carried",
+      "present_continuous": "carrying",
+      "present_continuous_with_aux": "am carrying",
+      "past_continuous": "was carrying",
+      "present_perfect": "have/has carried",
+      "past_perfect": "had carried",
+      "future": "will carry",
+      "future_perfect": "will have carried"
+    }
+  },
+  {
+    "base": "push",
+    "meaning_en": "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
+    "meaning_es": "empujar",
+    "example": "In his anger he pushed me against the wall and threatened me.",
+    "image_query": "person pushing cart",
+    "frequency": 60,
+    "tenses": {
+      "present": "push / pushes",
+      "past": "pushed",
+      "past_participle": "pushed",
+      "present_continuous": "pushing",
+      "present_continuous_with_aux": "am pushing",
+      "past_continuous": "was pushing",
+      "present_perfect": "have/has pushed",
+      "past_perfect": "had pushed",
+      "future": "will push",
+      "future_perfect": "will have pushed"
+    }
+  },
+  {
+    "base": "pull",
+    "meaning_en": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
+    "meaning_es": "jalar / tirar",
+    "example": "When I give the signal, pull the rope.",
+    "image_query": "person pulling rope",
+    "frequency": 61,
+    "tenses": {
+      "present": "pull / pulls",
+      "past": "pulled",
+      "past_participle": "pulled",
+      "present_continuous": "pulling",
+      "present_continuous_with_aux": "am pulling",
+      "past_continuous": "was pulling",
+      "present_perfect": "have/has pulled",
+      "past_perfect": "had pulled",
+      "future": "will pull",
+      "future_perfect": "will have pulled"
+    }
+  },
+  {
+    "base": "lift",
+    "meaning_en": "To lift weights; to weight-lift.",
+    "meaning_es": "levantar",
+    "example": "She lifts twice a week at the gym.",
+    "image_query": "person lifting weights",
+    "frequency": 62,
+    "tenses": {
+      "present": "lift / lifts",
+      "past": "lifted",
+      "past_participle": "lifted",
+      "present_continuous": "lifting",
+      "present_continuous_with_aux": "am lifting",
+      "past_continuous": "was lifting",
+      "present_perfect": "have/has lifted",
+      "past_perfect": "had lifted",
+      "future": "will lift",
+      "future_perfect": "will have lifted"
+    }
+  },
+  {
+    "base": "drop",
+    "meaning_en": "Of an item: To appear for the player to pick up, usually after an enemy has been defeated.",
+    "meaning_es": "dejar caer",
+    "example": "When you defeat this boss, there's a chance a power-up will drop.",
+    "image_query": "person dropping ball",
+    "frequency": 63,
+    "tenses": {
+      "present": "drop / drops",
+      "past": "dropped",
+      "past_participle": "dropped",
+      "present_continuous": "dropping",
+      "present_continuous_with_aux": "am dropping",
+      "past_continuous": "was dropping",
+      "present_perfect": "have/has dropped",
+      "past_perfect": "had dropped",
+      "future": "will drop",
+      "future_perfect": "will have dropped"
+    }
+  },
+  {
+    "base": "throw",
+    "meaning_en": "To hurl; to release (an object) with some force from one’s hands, an apparatus, etc. so that it moves rapidly through the air.",
+    "meaning_es": "lanzar",
+    "example": "throw a shoe; throw a javelin; the horse threw its rider",
+    "image_query": "person throwing ball",
+    "frequency": 64,
+    "tenses": {
+      "present": "throw / throws",
+      "past": "threw",
+      "past_participle": "thrown",
+      "present_continuous": "throwing",
+      "present_continuous_with_aux": "am throwing",
+      "past_continuous": "was throwing",
+      "present_perfect": "have/has thrown",
+      "past_perfect": "had thrown",
+      "future": "will throw",
+      "future_perfect": "will have thrown"
+    }
+  },
+  {
+    "base": "catch",
+    "meaning_en": "To capture or snare (someone or something which would rather escape).",
+    "meaning_es": "atrapar",
+    "example": "I hope I catch a fish.",
+    "image_query": "person catching ball",
+    "frequency": 65,
+    "tenses": {
+      "present": "catch / catches",
+      "past": "caught",
+      "past_participle": "caught",
+      "present_continuous": "catching",
+      "present_continuous_with_aux": "am catching",
+      "past_continuous": "was catching",
+      "present_perfect": "have/has caught",
+      "past_perfect": "had caught",
+      "future": "will catch",
+      "future_perfect": "will have caught"
+    }
+  },
+  {
+    "base": "kick",
+    "meaning_en": "To strike or hit with the foot or other extremity of the leg.",
+    "meaning_es": "patear",
+    "example": "Did you kick your brother?",
+    "image_query": "person kicking ball",
+    "frequency": 66,
+    "tenses": {
+      "present": "kick / kicks",
+      "past": "kicked",
+      "past_participle": "kicked",
+      "present_continuous": "kicking",
+      "present_continuous_with_aux": "am kicking",
+      "past_continuous": "was kicking",
+      "present_perfect": "have/has kicked",
+      "past_perfect": "had kicked",
+      "future": "will kick",
+      "future_perfect": "will have kicked"
+    }
+  },
+  {
+    "base": "watch",
+    "meaning_en": "To look at, see, or view for a period of time.",
+    "meaning_es": "mirar / observar",
+    "example": "Watching the clock will not make time go faster.",
+    "image_query": "person watching television",
+    "frequency": 67,
+    "tenses": {
+      "present": "watch / watches",
+      "past": "watched",
+      "past_participle": "watched",
+      "present_continuous": "watching",
+      "present_continuous_with_aux": "am watching",
+      "past_continuous": "was watching",
+      "present_perfect": "have/has watched",
+      "past_perfect": "had watched",
+      "future": "will watch",
+      "future_perfect": "will have watched"
+    }
+  },
+  {
+    "base": "listen",
+    "meaning_en": "To use one's sense of hearing and auditory cognition in an intentional way; to make deliberate use of one's ears; to pay attention to or wait for a specific sound.",
+    "meaning_es": "escuchar",
+    "example": "Please listen carefully as I explain.",
+    "image_query": "person listening music headphones",
+    "frequency": 68,
+    "tenses": {
+      "present": "listen / listens",
+      "past": "listened",
+      "past_participle": "listened",
+      "present_continuous": "listening",
+      "present_continuous_with_aux": "am listening",
+      "past_continuous": "was listening",
+      "present_perfect": "have/has listened",
+      "past_perfect": "had listened",
+      "future": "will listen",
+      "future_perfect": "will have listened"
+    }
+  },
+  {
+    "base": "call",
+    "meaning_en": "To request, summon, or beckon.",
+    "meaning_es": "llamar",
+    "example": "That person is hurt; call for help!",
+    "image_query": "person calling on phone",
+    "frequency": 69,
+    "tenses": {
+      "present": "call / calls",
+      "past": "called",
+      "past_participle": "called",
+      "present_continuous": "calling",
+      "present_continuous_with_aux": "am calling",
+      "past_continuous": "was calling",
+      "present_perfect": "have/has called",
+      "past_perfect": "had called",
+      "future": "will call",
+      "future_perfect": "will have called"
+    }
+  },
+  {
+    "base": "answer",
+    "meaning_en": "To make a reply or response to.",
+    "meaning_es": "responder",
+    "example": "He answered the question.",
+    "image_query": "person answering phone",
+    "frequency": 70,
+    "tenses": {
+      "present": "answer / answers",
+      "past": "answered",
+      "past_participle": "answered",
+      "present_continuous": "answering",
+      "present_continuous_with_aux": "am answering",
+      "past_continuous": "was answering",
+      "present_perfect": "have/has answered",
+      "past_perfect": "had answered",
+      "future": "will answer",
+      "future_perfect": "will have answered"
+    }
+  },
+  {
+    "base": "ask",
+    "meaning_en": "To request (information, or an answer to a question).",
+    "meaning_es": "preguntar",
+    "example": "I asked her age.",
+    "image_query": "person asking question classroom",
+    "frequency": 71,
+    "tenses": {
+      "present": "ask / asks",
+      "past": "asked",
+      "past_participle": "asked",
+      "present_continuous": "asking",
+      "present_continuous_with_aux": "am asking",
+      "past_continuous": "was asking",
+      "present_perfect": "have/has asked",
+      "past_perfect": "had asked",
+      "future": "will ask",
+      "future_perfect": "will have asked"
+    }
+  },
+  {
+    "base": "help",
+    "meaning_en": "To provide assistance to (someone or something).",
+    "meaning_es": "ayudar",
+    "example": "He helped his grandfather cook breakfast.",
+    "image_query": "person helping another",
+    "frequency": 72,
+    "tenses": {
+      "present": "help / helps",
+      "past": "helped",
+      "past_participle": "helped",
+      "present_continuous": "helping",
+      "present_continuous_with_aux": "am helping",
+      "past_continuous": "was helping",
+      "present_perfect": "have/has helped",
+      "past_perfect": "had helped",
+      "future": "will help",
+      "future_perfect": "will have helped"
+    }
+  },
+  {
+    "base": "open",
+    "meaning_en": "To make or become accessible or clear for passage by moving from a shut position.",
+    "meaning_es": "abrir",
+    "example": "Turn the doorknob to open the door.",
+    "image_query": "person opening door",
+    "frequency": 73,
+    "tenses": {
+      "present": "open / opens",
+      "past": "opened",
+      "past_participle": "opened",
+      "present_continuous": "opening",
+      "present_continuous_with_aux": "am opening",
+      "past_continuous": "was opening",
+      "present_perfect": "have/has opened",
+      "past_perfect": "had opened",
+      "future": "will open",
+      "future_perfect": "will have opened"
+    }
+  },
+  {
+    "base": "close",
+    "meaning_en": "To move a thing, or part of a thing, nearer to another so that the gap or opening between the two is removed.",
+    "meaning_es": "cerrar",
+    "example": "Close the door behind you when you leave.",
+    "image_query": "person closing door",
+    "frequency": 74,
+    "tenses": {
+      "present": "close / closes",
+      "past": "closed",
+      "past_participle": "closed",
+      "present_continuous": "closing",
+      "present_continuous_with_aux": "am closing",
+      "past_continuous": "was closing",
+      "present_perfect": "have/has closed",
+      "past_perfect": "had closed",
+      "future": "will close",
+      "future_perfect": "will have closed"
+    }
+  },
+  {
+    "base": "clean",
+    "meaning_en": "To remove dirt from a place or object.",
+    "meaning_es": "limpiar",
+    "example": "Can you clean the windows today?",
+    "image_query": "person cleaning house",
+    "frequency": 75,
+    "tenses": {
+      "present": "clean / cleans",
+      "past": "cleaned",
+      "past_participle": "cleaned",
+      "present_continuous": "cleaning",
+      "present_continuous_with_aux": "am cleaning",
+      "past_continuous": "was cleaning",
+      "present_perfect": "have/has cleaned",
+      "past_perfect": "had cleaned",
+      "future": "will clean",
+      "future_perfect": "will have cleaned"
+    }
+  },
+  {
+    "base": "wash",
+    "meaning_en": "To clean with water.",
+    "meaning_es": "lavar",
+    "example": "The car is so dirty, we need to wash it.",
+    "image_query": "person washing dishes",
+    "frequency": 76,
+    "tenses": {
+      "present": "wash / washes",
+      "past": "washed",
+      "past_participle": "washed",
+      "present_continuous": "washing",
+      "present_continuous_with_aux": "am washing",
+      "past_continuous": "was washing",
+      "present_perfect": "have/has washed",
+      "past_perfect": "had washed",
+      "future": "will wash",
+      "future_perfect": "will have washed"
+    }
+  },
+  {
+    "base": "dry",
+    "meaning_en": "To lose moisture.",
+    "meaning_es": "secar",
+    "example": "The clothes dried on the line.",
+    "image_query": "person drying hair towel",
+    "frequency": 77,
+    "tenses": {
+      "present": "dry / dries",
+      "past": "dried",
+      "past_participle": "dried",
+      "present_continuous": "drying",
+      "present_continuous_with_aux": "am drying",
+      "past_continuous": "was drying",
+      "present_perfect": "have/has dried",
+      "past_perfect": "had dried",
+      "future": "will dry",
+      "future_perfect": "will have dried"
+    }
+  },
+  {
+    "base": "use",
+    "meaning_en": "To employ; to apply; to utilize.",
+    "meaning_es": "usar",
+    "example": "Use this knife to slice the bread.",
+    "image_query": "person using laptop",
+    "frequency": 78,
+    "tenses": {
+      "present": "use / uses",
+      "past": "used",
+      "past_participle": "used",
+      "present_continuous": "using",
+      "present_continuous_with_aux": "am using",
+      "past_continuous": "was using",
+      "present_perfect": "have/has used",
+      "past_perfect": "had used",
+      "future": "will use",
+      "future_perfect": "will have used"
+    }
+  },
+  {
+    "base": "work",
+    "meaning_en": "Said of one's workplace (building), or one's department, or one's trade (sphere of business) [with in or at].",
+    "meaning_es": "trabajar",
+    "example": "I work in a national park.",
+    "image_query": "person working at desk",
+    "frequency": 79,
+    "tenses": {
+      "present": "work / works",
+      "past": "worked",
+      "past_participle": "worked",
+      "present_continuous": "working",
+      "present_continuous_with_aux": "am working",
+      "past_continuous": "was working",
+      "present_perfect": "have/has worked",
+      "past_perfect": "had worked",
+      "future": "will work",
+      "future_perfect": "will have worked"
+    }
+  },
+  {
+    "base": "play",
+    "meaning_en": "To act in a manner such that one has fun; to engage in activities expressly for the purpose of recreation or entertainment.",
+    "meaning_es": "jugar",
+    "example": "The children played in the park.",
+    "image_query": "children playing soccer",
+    "frequency": 80,
+    "tenses": {
+      "present": "play / plays",
+      "past": "played",
+      "past_participle": "played",
+      "present_continuous": "playing",
+      "present_continuous_with_aux": "am playing",
+      "past_continuous": "was playing",
+      "present_perfect": "have/has played",
+      "past_perfect": "had played",
+      "future": "will play",
+      "future_perfect": "will have played"
+    }
+  },
+  {
+    "base": "study",
+    "meaning_en": "To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.",
+    "meaning_es": "estudiar",
+    "example": "Students are expected to start studying for final exams in March.",
+    "image_query": "student studying books",
+    "frequency": 81,
+    "tenses": {
+      "present": "study / studies",
+      "past": "studied",
+      "past_participle": "studied",
+      "present_continuous": "studying",
+      "present_continuous_with_aux": "am studying",
+      "past_continuous": "was studying",
+      "present_perfect": "have/has studied",
+      "past_perfect": "had studied",
+      "future": "will study",
+      "future_perfect": "will have studied"
+    }
+  },
+  {
+    "base": "learn",
+    "meaning_en": "To acquire, or attempt to acquire knowledge or an ability to do something.",
+    "meaning_es": "aprender",
+    "example": "It's time Dad learned (how) to change the oil in the car.",
+    "image_query": "students learning classroom",
+    "frequency": 82,
+    "tenses": {
+      "present": "learn / learns",
+      "past": "learned",
+      "past_participle": "learned",
+      "present_continuous": "learning",
+      "present_continuous_with_aux": "am learning",
+      "past_continuous": "was learning",
+      "present_perfect": "have/has learned",
+      "past_perfect": "had learned",
+      "future": "will learn",
+      "future_perfect": "will have learned"
+    }
+  },
+  {
+    "base": "draw",
+    "meaning_en": "To pull (someone or something) in a particular direction or manner.",
+    "meaning_es": "dibujar",
+    "example": "He drew a sheaf of papers from his bag.",
+    "image_query": "person drawing picture",
+    "frequency": 83,
+    "tenses": {
+      "present": "draw / draws",
+      "past": "drew",
+      "past_participle": "drawn",
+      "present_continuous": "drawing",
+      "present_continuous_with_aux": "am drawing",
+      "past_continuous": "was drawing",
+      "present_perfect": "have/has drawn",
+      "past_perfect": "had drawn",
+      "future": "will draw",
+      "future_perfect": "will have drawn"
+    }
+  },
+  {
+    "base": "paint",
+    "meaning_en": "To apply paint to.",
+    "meaning_es": "pintar",
+    "example": "I painted the bathroom walls light blue, and I painted the ceiling white.",
+    "image_query": "person painting canvas",
+    "frequency": 84,
+    "tenses": {
+      "present": "paint / paints",
+      "past": "painted",
+      "past_participle": "painted",
+      "present_continuous": "painting",
+      "present_continuous_with_aux": "am painting",
+      "past_continuous": "was painting",
+      "present_perfect": "have/has painted",
+      "past_perfect": "had painted",
+      "future": "will paint",
+      "future_perfect": "will have painted"
+    }
+  },
+  {
+    "base": "chop",
+    "meaning_en": "To cut into pieces with short, vigorous cutting motions.",
+    "meaning_es": "picar",
+    "example": "chop wood; chop an onion",
+    "image_query": "person chopping vegetables",
+    "frequency": 85,
+    "tenses": {
+      "present": "chop / chops",
+      "past": "chopped",
+      "past_participle": "chopped",
+      "present_continuous": "chopping",
+      "present_continuous_with_aux": "am chopping",
+      "past_continuous": "was chopping",
+      "present_perfect": "have/has chopped",
+      "past_perfect": "had chopped",
+      "future": "will chop",
+      "future_perfect": "will have chopped"
+    }
+  },
+  {
+    "base": "slice",
+    "meaning_en": "To cut into slices.",
+    "meaning_es": "rebanar",
+    "example": "Slice the cheese thinly.",
+    "image_query": "person slicing bread",
+    "frequency": 86,
+    "tenses": {
+      "present": "slice / slices",
+      "past": "sliced",
+      "past_participle": "sliced",
+      "present_continuous": "slicing",
+      "present_continuous_with_aux": "am slicing",
+      "past_continuous": "was slicing",
+      "present_perfect": "have/has sliced",
+      "past_perfect": "had sliced",
+      "future": "will slice",
+      "future_perfect": "will have sliced"
+    }
+  },
+  {
+    "base": "peel",
+    "meaning_en": "To remove the skin or outer covering of.",
+    "meaning_es": "pelar",
+    "example": "I sat by my sister's bed, peeling oranges for her.",
+    "image_query": "person peeling orange",
+    "frequency": 87,
+    "tenses": {
+      "present": "peel / peels",
+      "past": "peeled",
+      "past_participle": "peeled",
+      "present_continuous": "peeling",
+      "present_continuous_with_aux": "am peeling",
+      "past_continuous": "was peeling",
+      "present_perfect": "have/has peeled",
+      "past_perfect": "had peeled",
+      "future": "will peel",
+      "future_perfect": "will have peeled"
+    }
+  },
+  {
+    "base": "stir",
+    "meaning_en": "To disturb the relative position of the particles (of a liquid or similar) by passing an object through it.",
+    "meaning_es": "revolver",
+    "example": "She stirred the pudding with a spoon.",
+    "image_query": "person stirring soup pot",
+    "frequency": 88,
+    "tenses": {
+      "present": "stir / stirs",
+      "past": "stirred",
+      "past_participle": "stirred",
+      "present_continuous": "stirring",
+      "present_continuous_with_aux": "am stirring",
+      "past_continuous": "was stirring",
+      "present_perfect": "have/has stirred",
+      "past_perfect": "had stirred",
+      "future": "will stir",
+      "future_perfect": "will have stirred"
+    }
+  },
+  {
+    "base": "mix",
+    "meaning_en": "To stir together.",
+    "meaning_es": "mezclar",
+    "example": "Mix the eggs and milk with the flour until the consistency is smooth.",
+    "image_query": "person mixing ingredients bowl",
+    "frequency": 89,
+    "tenses": {
+      "present": "mix / mixes",
+      "past": "mixed",
+      "past_participle": "mixed",
+      "present_continuous": "mixing",
+      "present_continuous_with_aux": "am mixing",
+      "past_continuous": "was mixing",
+      "present_perfect": "have/has mixed",
+      "past_perfect": "had mixed",
+      "future": "will mix",
+      "future_perfect": "will have mixed"
+    }
+  },
+  {
+    "base": "pour",
+    "meaning_en": "To cause (liquid, or liquid-like substance) to flow in a stream, either out of a container or into it.",
+    "meaning_es": "verter",
+    "example": "pour water from a jug",
+    "image_query": "person pouring water glass",
+    "frequency": 90,
+    "tenses": {
+      "present": "pour / pours",
+      "past": "poured",
+      "past_participle": "poured",
+      "present_continuous": "pouring",
+      "present_continuous_with_aux": "am pouring",
+      "past_continuous": "was pouring",
+      "present_perfect": "have/has poured",
+      "past_perfect": "had poured",
+      "future": "will pour",
+      "future_perfect": "will have poured"
+    }
+  },
+  {
+    "base": "chew",
+    "meaning_en": "To crush with the teeth by repeated closing and opening of the jaws; done to food to soften it and break it down by the action of saliva before it is swallowed.",
+    "meaning_es": "masticar",
+    "example": "Make sure to chew thoroughly, and don't talk with your mouth full!",
+    "image_query": "person chewing food",
+    "frequency": 91,
+    "tenses": {
+      "present": "chew / chews",
+      "past": "chewed",
+      "past_participle": "chewed",
+      "present_continuous": "chewing",
+      "present_continuous_with_aux": "am chewing",
+      "past_continuous": "was chewing",
+      "present_perfect": "have/has chewed",
+      "past_perfect": "had chewed",
+      "future": "will chew",
+      "future_perfect": "will have chewed"
+    }
+  },
+  {
+    "base": "swallow",
+    "meaning_en": "To take food down into the stomach; to make the muscular contractions of the oesophagus to achieve this, often taken as a sign of nervousness or strong emotion.",
+    "meaning_es": "tragar",
+    "example": "My throat was so sore that I was unable to swallow.",
+    "image_query": "person swallowing pill",
+    "frequency": 92,
+    "tenses": {
+      "present": "swallow / swallows",
+      "past": "swallowed",
+      "past_participle": "swallowed",
+      "present_continuous": "swallowing",
+      "present_continuous_with_aux": "am swallowing",
+      "past_continuous": "was swallowing",
+      "present_perfect": "have/has swallowed",
+      "past_perfect": "had swallowed",
+      "future": "will swallow",
+      "future_perfect": "will have swallowed"
+    }
+  },
+  {
+    "base": "smell",
+    "meaning_en": "To detect or perceive; often with out.",
+    "meaning_es": "oler",
+    "example": "They smell every day.",
+    "image_query": "person smelling flower",
+    "frequency": 93,
+    "tenses": {
+      "present": "smell / smells",
+      "past": "smelled",
+      "past_participle": "smelled",
+      "present_continuous": "smelling",
+      "present_continuous_with_aux": "am smelling",
+      "past_continuous": "was smelling",
+      "present_perfect": "have/has smelled",
+      "past_perfect": "had smelled",
+      "future": "will smell",
+      "future_perfect": "will have smelled"
+    }
+  },
+  {
+    "base": "taste",
+    "meaning_en": "To have a taste; to excite a particular sensation by which flavor is distinguished.",
+    "meaning_es": "probar (sabor)",
+    "example": "The chicken tasted great, but the milk tasted like garlic.",
+    "image_query": "person tasting food spoon",
+    "frequency": 94,
+    "tenses": {
+      "present": "taste / tastes",
+      "past": "tasted",
+      "past_participle": "tasted",
+      "present_continuous": "tasting",
+      "present_continuous_with_aux": "am tasting",
+      "past_continuous": "was tasting",
+      "present_perfect": "have/has tasted",
+      "past_perfect": "had tasted",
+      "future": "will taste",
+      "future_perfect": "will have tasted"
+    }
+  },
+  {
+    "base": "touch",
+    "meaning_en": "To make physical contact with; to bring the hand, finger or other part of the body into contact with.",
+    "meaning_es": "tocar",
+    "example": "I touched his face softly.",
+    "image_query": "person touching wall",
+    "frequency": 95,
+    "tenses": {
+      "present": "touch / touches",
+      "past": "touched",
+      "past_participle": "touched",
+      "present_continuous": "touching",
+      "present_continuous_with_aux": "am touching",
+      "past_continuous": "was touching",
+      "present_perfect": "have/has touched",
+      "past_perfect": "had touched",
+      "future": "will touch",
+      "future_perfect": "will have touched"
+    }
+  },
+  {
+    "base": "smile",
+    "meaning_en": "To have (a smile) on one's face.",
+    "meaning_es": "sonreír",
+    "example": "When you smile, the whole world smiles with you.",
+    "image_query": "smiling person face",
+    "frequency": 96,
+    "tenses": {
+      "present": "smile / smiles",
+      "past": "smiled",
+      "past_participle": "smiled",
+      "present_continuous": "smiling",
+      "present_continuous_with_aux": "am smiling",
+      "past_continuous": "was smiling",
+      "present_perfect": "have/has smiled",
+      "past_perfect": "had smiled",
+      "future": "will smile",
+      "future_perfect": "will have smiled"
+    }
+  },
+  {
+    "base": "laugh",
+    "meaning_en": "To show mirth, satisfaction, or derision, by peculiar movement of the muscles of the face, particularly of the mouth, causing a lighting up of the face and eyes, and usually accompanied by the emission of explosive or chuckling sounds from the chest and throat; to indulge in laughter.",
+    "meaning_es": "reír",
+    "example": "There were many laughing children running on the school grounds.",
+    "image_query": "laughing friends",
+    "frequency": 97,
+    "tenses": {
+      "present": "laugh / laughs",
+      "past": "laughed",
+      "past_participle": "laughed",
+      "present_continuous": "laughing",
+      "present_continuous_with_aux": "am laughing",
+      "past_continuous": "was laughing",
+      "present_perfect": "have/has laughed",
+      "past_perfect": "had laughed",
+      "future": "will laugh",
+      "future_perfect": "will have laughed"
+    }
+  },
+  {
+    "base": "cry",
+    "meaning_en": "To shed tears; to weep, especially in anger or sadness.",
+    "meaning_es": "llorar",
+    "example": "That sad movie always makes me cry.",
+    "image_query": "crying baby",
+    "frequency": 98,
+    "tenses": {
+      "present": "cry / cries",
+      "past": "cried",
+      "past_participle": "cried",
+      "present_continuous": "crying",
+      "present_continuous_with_aux": "am crying",
+      "past_continuous": "was crying",
+      "present_perfect": "have/has cried",
+      "past_perfect": "had cried",
+      "future": "will cry",
+      "future_perfect": "will have cried"
+    }
+  },
+  {
+    "base": "kiss",
+    "meaning_en": "To (cause to) touch lightly or slightly; to come into contact.",
+    "meaning_es": "besar",
+    "example": "The nearside of the car just kissed a parked truck as he took the corner at high speed.",
+    "image_query": "two people kissing",
+    "frequency": 99,
+    "tenses": {
+      "present": "kiss / kisses",
+      "past": "kissed",
+      "past_participle": "kissed",
+      "present_continuous": "kissing",
+      "present_continuous_with_aux": "am kissing",
+      "past_continuous": "was kissing",
+      "present_perfect": "have/has kissed",
+      "past_perfect": "had kissed",
+      "future": "will kiss",
+      "future_perfect": "will have kissed"
+    }
+  },
+  {
+    "base": "ride",
+    "meaning_en": "To transport oneself by sitting on and directing a horse, later also a bicycle etc.",
+    "meaning_es": "montar / ir en",
+    "example": "I ride to work every day and park the bike outside the office.",
+    "image_query": "person riding bicycle",
+    "frequency": 100,
+    "tenses": {
+      "present": "ride / rides",
+      "past": "rode",
+      "past_participle": "ridden",
+      "present_continuous": "riding",
+      "present_continuous_with_aux": "am riding",
+      "past_continuous": "was riding",
+      "present_perfect": "have/has ridden",
+      "past_perfect": "had ridden",
+      "future": "will ride",
+      "future_perfect": "will have ridden"
+    }
+  },
+  {
+    "base": "sail",
+    "meaning_en": "To set sail; to begin a voyage.",
+    "meaning_es": "navegar",
+    "example": "We sail for Australia tomorrow.",
+    "image_query": "sailing boat sea",
+    "frequency": 101,
+    "tenses": {
+      "present": "sail / sails",
+      "past": "sailed",
+      "past_participle": "sailed",
+      "present_continuous": "sailing",
+      "present_continuous_with_aux": "am sailing",
+      "past_continuous": "was sailing",
+      "present_perfect": "have/has sailed",
+      "past_perfect": "had sailed",
+      "future": "will sail",
+      "future_perfect": "will have sailed"
+    }
+  },
+  {
+    "base": "surf",
+    "meaning_en": "To ride a wave on a surfboard; to pursue or take part in the sport of surfing.",
+    "meaning_es": "hacer surf",
+    "example": "They surf every day.",
+    "image_query": "surfer surfing wave",
+    "frequency": 102,
+    "tenses": {
+      "present": "surf / surfs",
+      "past": "surfed",
+      "past_participle": "surfed",
+      "present_continuous": "surfing",
+      "present_continuous_with_aux": "am surfing",
+      "past_continuous": "was surfing",
+      "present_perfect": "have/has surfed",
+      "past_perfect": "had surfed",
+      "future": "will surf",
+      "future_perfect": "will have surfed"
+    }
+  },
+  {
+    "base": "ski",
+    "meaning_en": "To travel over (a slope, etc.) on skis; to travel on skis at (a place), (especially as a sport).",
+    "meaning_es": "esquiar",
+    "example": "We spent the winter holidays skiing the Alps",
+    "image_query": "skier skiing snow mountain",
+    "frequency": 103,
+    "tenses": {
+      "present": "ski / skis",
+      "past": "skied",
+      "past_participle": "skied",
+      "present_continuous": "skiing",
+      "present_continuous_with_aux": "am skiing",
+      "past_continuous": "was skiing",
+      "present_perfect": "have/has skied",
+      "past_perfect": "had skied",
+      "future": "will ski",
+      "future_perfect": "will have skied"
+    }
+  },
+  {
+    "base": "skate",
+    "meaning_en": "To move along a surface (ice or ground) using skates.",
+    "meaning_es": "patinar",
+    "example": "They skate every day.",
+    "image_query": "person skating skateboard",
+    "frequency": 104,
+    "tenses": {
+      "present": "skate / skates",
+      "past": "skated",
+      "past_participle": "skated",
+      "present_continuous": "skating",
+      "present_continuous_with_aux": "am skating",
+      "past_continuous": "was skating",
+      "present_perfect": "have/has skated",
+      "past_perfect": "had skated",
+      "future": "will skate",
+      "future_perfect": "will have skated"
+    }
+  },
+  {
+    "base": "plant",
+    "meaning_en": "To furnish or supply with plants.",
+    "meaning_es": "plantar",
+    "example": "to plant a garden, an orchard, or a forest",
+    "image_query": "person planting tree",
+    "frequency": 105,
+    "tenses": {
+      "present": "plant / plants",
+      "past": "planted",
+      "past_participle": "planted",
+      "present_continuous": "planting",
+      "present_continuous_with_aux": "am planting",
+      "past_continuous": "was planting",
+      "present_perfect": "have/has planted",
+      "past_perfect": "had planted",
+      "future": "will plant",
+      "future_perfect": "will have planted"
+    }
+  },
+  {
+    "base": "water",
+    "meaning_en": "To provide (animals) with water for drinking.",
+    "meaning_es": "regar",
+    "example": "I need to water the cattle.",
+    "image_query": "person watering plants",
+    "frequency": 106,
+    "tenses": {
+      "present": "water / waters",
+      "past": "watered",
+      "past_participle": "watered",
+      "present_continuous": "watering",
+      "present_continuous_with_aux": "am watering",
+      "past_continuous": "was watering",
+      "present_perfect": "have/has watered",
+      "past_perfect": "had watered",
+      "future": "will water",
+      "future_perfect": "will have watered"
+    }
+  },
+  {
+    "base": "dig",
+    "meaning_en": "To move hard-packed earth out of the way, especially downward to make a hole with a shovel. Or to drill, or the like, through rocks, roads, or the like. More generally, to make any similar hole by moving material out of the way.",
+    "meaning_es": "cavar",
+    "example": "They dug an eight-foot ditch along the side of the road.",
+    "image_query": "person digging hole shovel",
+    "frequency": 107,
+    "tenses": {
+      "present": "dig / digs",
+      "past": "dug",
+      "past_participle": "dug",
+      "present_continuous": "digging",
+      "present_continuous_with_aux": "am digging",
+      "past_continuous": "was digging",
+      "present_perfect": "have/has dug",
+      "past_perfect": "had dug",
+      "future": "will dig",
+      "future_perfect": "will have dug"
+    }
+  },
+  {
+    "base": "mend",
+    "meaning_en": "To physically repair (something that is broken, defaced, decayed, torn, or otherwise damaged).",
+    "meaning_es": "remendar",
+    "example": "My trousers have a big rip in them and need mending.",
+    "image_query": "person mending clothes",
+    "frequency": 108,
+    "tenses": {
+      "present": "mend / mends",
+      "past": "mended",
+      "past_participle": "mended",
+      "present_continuous": "mending",
+      "present_continuous_with_aux": "am mending",
+      "past_continuous": "was mending",
+      "present_perfect": "have/has mended",
+      "past_perfect": "had mended",
+      "future": "will mend",
+      "future_perfect": "will have mended"
+    }
+  },
+  {
+    "base": "repair",
+    "meaning_en": "To restore to good working order, fix, or improve damaged condition; to mend; to remedy.",
+    "meaning_es": "reparar",
+    "example": "to repair a house, a road, a shoe, a ship",
+    "image_query": "person repairing bicycle",
+    "frequency": 109,
+    "tenses": {
+      "present": "repair / repairs",
+      "past": "repaired",
+      "past_participle": "repaired",
+      "present_continuous": "repairing",
+      "present_continuous_with_aux": "am repairing",
+      "past_continuous": "was repairing",
+      "present_perfect": "have/has repaired",
+      "past_perfect": "had repaired",
+      "future": "will repair",
+      "future_perfect": "will have repaired"
+    }
+  },
+  {
+    "base": "fix",
+    "meaning_en": "(Of a piercing look) to direct at someone.",
+    "meaning_es": "arreglar",
+    "example": "He fixed me with a sickly grin, and said, \"I told you it wouldn't work!\"",
+    "image_query": "person fixing car engine",
+    "frequency": 110,
+    "tenses": {
+      "present": "fix / fixes",
+      "past": "fixed",
+      "past_participle": "fixed",
+      "present_continuous": "fixing",
+      "present_continuous_with_aux": "am fixing",
+      "past_continuous": "was fixing",
+      "present_perfect": "have/has fixed",
+      "past_perfect": "had fixed",
+      "future": "will fix",
+      "future_perfect": "will have fixed"
+    }
+  },
+  {
+    "base": "feed",
+    "meaning_en": "To give (someone or something) food to eat.",
+    "meaning_es": "alimentar",
+    "example": "Feed the dog every evening.",
+    "image_query": "person feeding chickens",
+    "frequency": 111,
+    "tenses": {
+      "present": "feed / feeds",
+      "past": "fed",
+      "past_participle": "fed",
+      "present_continuous": "feeding",
+      "present_continuous_with_aux": "am feeding",
+      "past_continuous": "was feeding",
+      "present_perfect": "have/has fed",
+      "past_perfect": "had fed",
+      "future": "will feed",
+      "future_perfect": "will have fed"
+    }
+  },
+  {
+    "base": "pet",
+    "meaning_en": "To stroke or fondle (an animal).",
+    "meaning_es": "acariciar",
+    "example": "I really love to pet cute puppies.",
+    "image_query": "person petting dog",
+    "frequency": 112,
+    "tenses": {
+      "present": "pet / pets",
+      "past": "petted",
+      "past_participle": "petted",
+      "present_continuous": "petting",
+      "present_continuous_with_aux": "am petting",
+      "past_continuous": "was petting",
+      "present_perfect": "have/has petted",
+      "past_perfect": "had peted",
+      "future": "will pet",
+      "future_perfect": "will have peted"
+    }
+  },
+  {
+    "base": "hug",
+    "meaning_en": "To embrace by holding closely, especially in the arms.",
+    "meaning_es": "abrazar",
+    "example": "Billy hugged Danny until he felt better.",
+    "image_query": "people hugging",
+    "frequency": 113,
+    "tenses": {
+      "present": "hug / hugs",
+      "past": "hugged",
+      "past_participle": "hugged",
+      "present_continuous": "hugging",
+      "present_continuous_with_aux": "am hugging",
+      "past_continuous": "was hugging",
+      "present_perfect": "have/has hugged",
+      "past_perfect": "had huged",
+      "future": "will hug",
+      "future_perfect": "will have huged"
+    }
+  },
+  {
+    "base": "stop",
+    "meaning_en": "To cease moving.",
+    "meaning_es": "detenerse / parar",
+    "example": "I stopped at the traffic lights.",
+    "image_query": "stop sign street",
+    "frequency": 114,
+    "tenses": {
+      "present": "stop / stops",
+      "past": "stopped",
+      "past_participle": "stopped",
+      "present_continuous": "stopping",
+      "present_continuous_with_aux": "am stopping",
+      "past_continuous": "was stopping",
+      "present_perfect": "have/has stopped",
+      "past_perfect": "had stopped",
+      "future": "will stop",
+      "future_perfect": "will have stopped"
+    }
+  },
+  {
+    "base": "shop",
+    "meaning_en": "To visit stores or shops to browse or explore merchandise, especially with the intention of buying such merchandise.",
+    "meaning_es": "ir de compras",
+    "example": "Why don’t you come shopping for gifts with me, early before the Christmas rush?",
+    "image_query": "person shopping store",
+    "frequency": 115,
+    "tenses": {
+      "present": "shop / shops",
+      "past": "shopped",
+      "past_participle": "shopped",
+      "present_continuous": "shopping",
+      "present_continuous_with_aux": "am shopping",
+      "past_continuous": "was shopping",
+      "present_perfect": "have/has shopped",
+      "past_perfect": "had shoped",
+      "future": "will shop",
+      "future_perfect": "will have shoped"
+    }
+  },
+  {
+    "base": "clap",
+    "meaning_en": "To strike the palms of the hands together, creating a sharp sound.",
+    "meaning_es": "aplaudir",
+    "example": "The children began to clap in time with the music.",
+    "image_query": "person clapping hands",
+    "frequency": 116,
+    "tenses": {
+      "present": "clap / claps",
+      "past": "clapped",
+      "past_participle": "clapped",
+      "present_continuous": "clapping",
+      "present_continuous_with_aux": "am clapping",
+      "past_continuous": "was clapping",
+      "present_perfect": "have/has clapped",
+      "past_perfect": "had clapped",
+      "future": "will clap",
+      "future_perfect": "will have clapped"
+    }
+  },
+  {
+    "base": "rub",
+    "meaning_en": "To move (one object) while maintaining contact with another object over some area, with pressure and friction.",
+    "meaning_es": "frotar",
+    "example": "I rubbed the cloth over the glass.",
+    "image_query": "person rubbing hands",
+    "frequency": 117,
+    "tenses": {
+      "present": "rub / rubs",
+      "past": "rubbed",
+      "past_participle": "rubbed",
+      "present_continuous": "rubbing",
+      "present_continuous_with_aux": "am rubbing",
+      "past_continuous": "was rubbing",
+      "present_perfect": "have/has rubbed",
+      "past_perfect": "had rubbed",
+      "future": "will rub",
+      "future_perfect": "will have rubbed"
+    }
+  },
+  {
+    "base": "plan",
+    "meaning_en": "To design (a building, machine, etc.).",
+    "meaning_es": "planear",
+    "example": "The architect planned the building for the client.",
+    "image_query": "person planning calendar",
+    "frequency": 118,
+    "tenses": {
+      "present": "plan / plans",
+      "past": "planned",
+      "past_participle": "planned",
+      "present_continuous": "planning",
+      "present_continuous_with_aux": "am planning",
+      "past_continuous": "was planning",
+      "present_perfect": "have/has planned",
+      "past_perfect": "had planned",
+      "future": "will plan",
+      "future_perfect": "will have planned"
+    }
+  },
+  {
+    "base": "lose",
+    "meaning_en": "To have (an organ) removed from one's body, especially by accident.",
+    "meaning_es": "perder",
+    "example": "Johnny lost a tooth, but kept it for the tooth fairy.",
+    "image_query": "losing player sad",
+    "frequency": 119,
+    "tenses": {
+      "present": "lose / loses",
+      "past": "lost",
+      "past_participle": "lost",
+      "present_continuous": "losing",
+      "present_continuous_with_aux": "am losing",
+      "past_continuous": "was losing",
+      "present_perfect": "have/has lost",
+      "past_perfect": "had lost",
+      "future": "will lose",
+      "future_perfect": "will have lost"
+    }
+  },
+  {
+    "base": "tie",
+    "meaning_en": "To twist (a string, rope, or the like) around itself securely.",
+    "meaning_es": "atar / amarrar",
+    "example": "Tie this rope in a knot for me, please.",
+    "image_query": "person tying shoes",
+    "frequency": 120,
+    "tenses": {
+      "present": "tie / ties",
+      "past": "tied",
+      "past_participle": "tied",
+      "present_continuous": "tying",
+      "present_continuous_with_aux": "am tying",
+      "past_continuous": "was tying",
+      "present_perfect": "have/has tied",
+      "past_perfect": "had tied",
+      "future": "will tie",
+      "future_perfect": "will have tied"
+    }
+  },
+  {
+    "base": "hop",
+    "meaning_en": "To be in state of energetic activity.",
+    "meaning_es": "brincar",
+    "example": "Sorry, can't chat. Got to hop.",
+    "image_query": "person hopping",
+    "frequency": 121,
+    "tenses": {
+      "present": "hop / hops",
+      "past": "hopped",
+      "past_participle": "hopped",
+      "present_continuous": "hopping",
+      "present_continuous_with_aux": "am hopping",
+      "past_continuous": "was hopping",
+      "present_perfect": "have/has hopped",
+      "past_perfect": "had hopped",
+      "future": "will hop",
+      "future_perfect": "will have hopped"
+    }
+  },
+  {
+    "base": "crawl",
+    "meaning_en": "To creep; to move slowly on hands and knees, or by dragging the body along the ground.",
+    "meaning_es": "gatear",
+    "example": "Clutching my wounded side, I crawled back to the trench.",
+    "image_query": "baby crawling",
+    "frequency": 122,
+    "tenses": {
+      "present": "crawl / crawls",
+      "past": "crawled",
+      "past_participle": "crawled",
+      "present_continuous": "crawling",
+      "present_continuous_with_aux": "am crawling",
+      "past_continuous": "was crawling",
+      "present_perfect": "have/has crawled",
+      "past_perfect": "had crawled",
+      "future": "will crawl",
+      "future_perfect": "will have crawled"
+    }
+  },
+  {
+    "base": "slide",
+    "meaning_en": "To (cause to) move in continuous contact with a surface.",
+    "meaning_es": "deslizarse",
+    "example": "He slid the boat across the grass.",
+    "image_query": "child sliding playground",
+    "frequency": 123,
+    "tenses": {
+      "present": "slide / slides",
+      "past": "slid",
+      "past_participle": "slid",
+      "present_continuous": "sliding",
+      "present_continuous_with_aux": "am sliding",
+      "past_continuous": "was sliding",
+      "present_perfect": "have/has slid",
+      "past_perfect": "had slid",
+      "future": "will slide",
+      "future_perfect": "will have slid"
+    }
+  },
+  {
+    "base": "roll",
+    "meaning_en": "To revolve by turning over and over; to move by turning on a horizontal axis; to impel forward with a revolving motion on a supporting surface.",
+    "meaning_es": "rodar",
+    "example": "To roll a wheel, a ball, or a barrel.",
+    "image_query": "ball rolling",
+    "frequency": 124,
+    "tenses": {
+      "present": "roll / rolls",
+      "past": "rolled",
+      "past_participle": "rolled",
+      "present_continuous": "rolling",
+      "present_continuous_with_aux": "am rolling",
+      "past_continuous": "was rolling",
+      "present_perfect": "have/has rolled",
+      "past_perfect": "had rolled",
+      "future": "will roll",
+      "future_perfect": "will have rolled"
+    }
+  },
+  {
+    "base": "spin",
+    "meaning_en": "To make yarn by twisting and winding fibers together.",
+    "meaning_es": "girar",
+    "example": "They spin the cotton into thread.",
+    "image_query": "spinning top",
+    "frequency": 125,
+    "tenses": {
+      "present": "spin / spins",
+      "past": "spun",
+      "past_participle": "spun",
+      "present_continuous": "spinning",
+      "present_continuous_with_aux": "am spinning",
+      "past_continuous": "was spinning",
+      "present_perfect": "have/has spun",
+      "past_perfect": "had spun",
+      "future": "will spin",
+      "future_perfect": "will have spun"
+    }
+  },
+  {
+    "base": "bend",
+    "meaning_en": "To cause (something) to change its shape into a curve, by physical force, chemical action, or any other means.",
+    "meaning_es": "doblar",
+    "example": "If you bend the pipe too far, it will break.",
+    "image_query": "person bending pipe",
+    "frequency": 126,
+    "tenses": {
+      "present": "bend / bends",
+      "past": "bent",
+      "past_participle": "bent",
+      "present_continuous": "bending",
+      "present_continuous_with_aux": "am bending",
+      "past_continuous": "was bending",
+      "present_perfect": "have/has bent",
+      "past_perfect": "had bent",
+      "future": "will bend",
+      "future_perfect": "will have bent"
+    }
+  },
+  {
+    "base": "stretch",
+    "meaning_en": "To lengthen by pulling.",
+    "meaning_es": "estirarse",
+    "example": "I stretched the rubber band until it almost broke.",
+    "image_query": "person stretching exercise",
+    "frequency": 127,
+    "tenses": {
+      "present": "stretch / stretches",
+      "past": "stretched",
+      "past_participle": "stretched",
+      "present_continuous": "stretching",
+      "present_continuous_with_aux": "am stretching",
+      "past_continuous": "was stretching",
+      "present_perfect": "have/has stretched",
+      "past_perfect": "had stretched",
+      "future": "will stretch",
+      "future_perfect": "will have stretched"
+    }
+  },
+  {
+    "base": "wave",
+    "meaning_en": "To move back and forth repeatedly and somewhat loosely.",
+    "meaning_es": "saludar con la mano",
+    "example": "The flag waved in the gentle breeze.",
+    "image_query": "person waving hand",
+    "frequency": 128,
+    "tenses": {
+      "present": "wave / waves",
+      "past": "waved",
+      "past_participle": "waved",
+      "present_continuous": "waving",
+      "present_continuous_with_aux": "am waving",
+      "past_continuous": "was waving",
+      "present_perfect": "have/has waved",
+      "past_perfect": "had waved",
+      "future": "will wave",
+      "future_perfect": "will have waved"
+    }
+  },
+  {
+    "base": "point",
+    "meaning_en": "To extend the index finger in the direction of something in order to show where it is or to draw attention to it.",
+    "meaning_es": "señalar",
+    "example": "It's rude to point at other people.",
+    "image_query": "person pointing finger",
+    "frequency": 129,
+    "tenses": {
+      "present": "point / points",
+      "past": "pointed",
+      "past_participle": "pointed",
+      "present_continuous": "pointing",
+      "present_continuous_with_aux": "am pointing",
+      "past_continuous": "was pointing",
+      "present_perfect": "have/has pointed",
+      "past_perfect": "had pointed",
+      "future": "will point",
+      "future_perfect": "will have pointed"
+    }
+  },
+  {
+    "base": "count",
+    "meaning_en": "To recite numbers in sequence.",
+    "meaning_es": "contar",
+    "example": "Can you count to a hundred?",
+    "image_query": "person counting fingers",
+    "frequency": 130,
+    "tenses": {
+      "present": "count / counts",
+      "past": "counted",
+      "past_participle": "counted",
+      "present_continuous": "counting",
+      "present_continuous_with_aux": "am counting",
+      "past_continuous": "was counting",
+      "present_perfect": "have/has counted",
+      "past_perfect": "had counted",
+      "future": "will count",
+      "future_perfect": "will have counted"
+    }
+  },
+  {
+    "base": "measure",
+    "meaning_en": "To ascertain the quantity of a unit of material via calculated comparison with respect to a standard.",
+    "meaning_es": "medir",
+    "example": "We measured the temperature with a thermometer.",
+    "image_query": "person measuring tape",
+    "frequency": 131,
+    "tenses": {
+      "present": "measure / measures",
+      "past": "measured",
+      "past_participle": "measured",
+      "present_continuous": "measuring",
+      "present_continuous_with_aux": "am measuring",
+      "past_continuous": "was measuring",
+      "present_perfect": "have/has measured",
+      "past_perfect": "had measured",
+      "future": "will measure",
+      "future_perfect": "will have measured"
+    }
+  },
+  {
+    "base": "wrap",
+    "meaning_en": "To enclose (an object) completely in any flexible, thin material such as fabric or paper.",
+    "meaning_es": "envolver",
+    "example": "Christmas gifts are commonly known to be wrapped in paper.",
+    "image_query": "person wrapping gift",
+    "frequency": 132,
+    "tenses": {
+      "present": "wrap / wraps",
+      "past": "wrapped",
+      "past_participle": "wrapped",
+      "present_continuous": "wrapping",
+      "present_continuous_with_aux": "am wrapping",
+      "past_continuous": "was wrapping",
+      "present_perfect": "have/has wrapped",
+      "past_perfect": "had wrapped",
+      "future": "will wrap",
+      "future_perfect": "will have wrapped"
+    }
+  },
+  {
+    "base": "fold",
+    "meaning_en": "To make the proper arrangement (in a thin material) by bending.",
+    "meaning_es": "doblar / plegar",
+    "example": "If you fold the sheets, they'll fit more easily in the drawer.",
+    "image_query": "person folding clothes",
+    "frequency": 133,
+    "tenses": {
+      "present": "fold / folds",
+      "past": "folded",
+      "past_participle": "folded",
+      "present_continuous": "folding",
+      "present_continuous_with_aux": "am folding",
+      "past_continuous": "was folding",
+      "present_perfect": "have/has folded",
+      "past_perfect": "had folded",
+      "future": "will fold",
+      "future_perfect": "will have folded"
+    }
+  },
+  {
+    "base": "shake",
+    "meaning_en": "To cause (something) to move rapidly in opposite directions alternatingly.",
+    "meaning_es": "agitar / apretón",
+    "example": "The earthquake shook the building.",
+    "image_query": "handshake greeting",
+    "frequency": 134,
+    "tenses": {
+      "present": "shake / shakes",
+      "past": "shook",
+      "past_participle": "shaken",
+      "present_continuous": "shaking",
+      "present_continuous_with_aux": "am shaking",
+      "past_continuous": "was shaking",
+      "present_perfect": "have/has shaken",
+      "past_perfect": "had shaken",
+      "future": "will shake",
+      "future_perfect": "will have shaken"
+    }
+  },
+  {
+    "base": "shine",
+    "meaning_en": "To distinguish oneself; to excel.",
+    "meaning_es": "brillar",
+    "example": "My nephew tried other sports before deciding on football, which he shone at right away, quickly becoming the star of his school team.",
+    "image_query": "sun shining",
+    "frequency": 135,
+    "tenses": {
+      "present": "shine / shines",
+      "past": "shined",
+      "past_participle": "shined",
+      "present_continuous": "shining",
+      "present_continuous_with_aux": "am shining",
+      "past_continuous": "was shining",
+      "present_perfect": "have/has shined",
+      "past_perfect": "had shined",
+      "future": "will shine",
+      "future_perfect": "will have shined"
+    }
+  },
+  {
+    "base": "rain",
+    "meaning_en": "To have rain fall from the sky.",
+    "meaning_es": "llover",
+    "example": "Judging by the black cloud, it will rain later today.",
+    "image_query": "rain rain falling window",
+    "frequency": 136,
+    "tenses": {
+      "present": "rain / rains",
+      "past": "rained",
+      "past_participle": "rained",
+      "present_continuous": "raining",
+      "present_continuous_with_aux": "am raining",
+      "past_continuous": "was raining",
+      "present_perfect": "have/has rained",
+      "past_perfect": "had rained",
+      "future": "will rain",
+      "future_perfect": "will have rained"
+    }
+  },
+  {
+    "base": "snow",
+    "meaning_en": "Of a thing: to fall like snow.",
+    "meaning_es": "nevar",
+    "example": "They snow every day.",
+    "image_query": "snow falling street",
+    "frequency": 137,
+    "tenses": {
+      "present": "snow / snows",
+      "past": "snowed",
+      "past_participle": "snowed",
+      "present_continuous": "snowing",
+      "present_continuous_with_aux": "am snowing",
+      "past_continuous": "was snowing",
+      "present_perfect": "have/has snowed",
+      "past_perfect": "had snowed",
+      "future": "will snow",
+      "future_perfect": "will have snowed"
+    }
+  },
+  {
+    "base": "freeze",
+    "meaning_en": "Especially of a liquid, to become solid due to low temperature.",
+    "meaning_es": "congelar",
+    "example": "The lake froze solid.",
+    "image_query": "frozen ice lake",
+    "frequency": 138,
+    "tenses": {
+      "present": "freeze / freezes",
+      "past": "froze",
+      "past_participle": "frozen",
+      "present_continuous": "freezing",
+      "present_continuous_with_aux": "am freezing",
+      "past_continuous": "was freezing",
+      "present_perfect": "have/has frozen",
+      "past_perfect": "had frozen",
+      "future": "will freeze",
+      "future_perfect": "will have frozen"
+    }
+  },
+  {
+    "base": "melt",
+    "meaning_en": "To change (or to be changed) from a solid state to a liquid state, usually by a gradual heat.",
+    "meaning_es": "derretir",
+    "example": "I melted butter to make a cake.",
+    "image_query": "melting ice cream",
+    "frequency": 139,
+    "tenses": {
+      "present": "melt / melts",
+      "past": "melted",
+      "past_participle": "melted",
+      "present_continuous": "melting",
+      "present_continuous_with_aux": "am melting",
+      "past_continuous": "was melting",
+      "present_perfect": "have/has melted",
+      "past_perfect": "had melted",
+      "future": "will melt",
+      "future_perfect": "will have melted"
+    }
+  },
+  {
+    "base": "float",
+    "meaning_en": "To be supported by a liquid of greater density, such that part (of the object or substance) remains above the surface.",
+    "meaning_es": "flotar",
+    "example": "The boat floated on the water.",
+    "image_query": "boat floating water",
+    "frequency": 140,
+    "tenses": {
+      "present": "float / floats",
+      "past": "floated",
+      "past_participle": "floated",
+      "present_continuous": "floating",
+      "present_continuous_with_aux": "am floating",
+      "past_continuous": "was floating",
+      "present_perfect": "have/has floated",
+      "past_perfect": "had floated",
+      "future": "will float",
+      "future_perfect": "will have floated"
+    }
+  },
+  {
+    "base": "sink",
+    "meaning_en": "To descend or submerge (or to cause to do so) into a liquid or similar substance.",
+    "meaning_es": "hundirse",
+    "example": "A stone sinks in water.  The sun gradually sank in the west.",
+    "image_query": "ship sinking",
+    "frequency": 141,
+    "tenses": {
+      "present": "sink / sinks",
+      "past": "sank",
+      "past_participle": "sunk",
+      "present_continuous": "sinking",
+      "present_continuous_with_aux": "am sinking",
+      "past_continuous": "was sinking",
+      "present_perfect": "have/has sunk",
+      "past_perfect": "had sunk",
+      "future": "will sink",
+      "future_perfect": "will have sunk"
+    }
+  },
+  {
+    "base": "dive",
+    "meaning_en": "To swim under water.",
+    "meaning_es": "bucear",
+    "example": "He dove in the water to save her.",
+    "image_query": "diver diving underwater",
+    "frequency": 142,
+    "tenses": {
+      "present": "dive / dives",
+      "past": "dove",
+      "past_participle": "dived",
+      "present_continuous": "diving",
+      "present_continuous_with_aux": "am diving",
+      "past_continuous": "was diving",
+      "present_perfect": "have/has dived",
+      "past_perfect": "had dived",
+      "future": "will dive",
+      "future_perfect": "will have dived"
+    }
+  },
+  {
+    "base": "hike",
+    "meaning_en": "To take a long walk (on something) for pleasure or exercise.",
+    "meaning_es": "caminar (excursión)",
+    "example": "Don't forget to bring the map when we go hiking tomorrow.",
+    "image_query": "person hiking mountains",
+    "frequency": 143,
+    "tenses": {
+      "present": "hike / hikes",
+      "past": "hiked",
+      "past_participle": "hiked",
+      "present_continuous": "hiking",
+      "present_continuous_with_aux": "am hiking",
+      "past_continuous": "was hiking",
+      "present_perfect": "have/has hiked",
+      "past_perfect": "had hiked",
+      "future": "will hike",
+      "future_perfect": "will have hiked"
+    }
+  },
+  {
+    "base": "travel",
+    "meaning_en": "To be on a journey, often for pleasure or business and with luggage; to go from one place to another.",
+    "meaning_es": "viajar",
+    "example": "John seems to spend as much time travelling as he does in the office.",
+    "image_query": "person traveling airplane",
+    "frequency": 144,
+    "tenses": {
+      "present": "travel / travels",
+      "past": "traveled",
+      "past_participle": "traveled",
+      "present_continuous": "travelling",
+      "present_continuous_with_aux": "am travelling",
+      "past_continuous": "was travelling",
+      "present_perfect": "have/has traveled",
+      "past_perfect": "had traveled",
+      "future": "will travel",
+      "future_perfect": "will have traveled"
+    }
+  },
+  {
+    "base": "visit",
+    "meaning_en": "To go and meet (a person) as an act of friendliness or sociability.",
+    "meaning_es": "visitar",
+    "example": "She decided to visit her grandparents for Christmas.",
+    "image_query": "people visiting museum",
+    "frequency": 145,
+    "tenses": {
+      "present": "visit / visits",
+      "past": "visited",
+      "past_participle": "visited",
+      "present_continuous": "visiting",
+      "present_continuous_with_aux": "am visiting",
+      "past_continuous": "was visiting",
+      "present_perfect": "have/has visited",
+      "past_perfect": "had visited",
+      "future": "will visit",
+      "future_perfect": "will have visited"
+    }
+  },
+  {
+    "base": "explore",
+    "meaning_en": "To examine or investigate something systematically.",
+    "meaning_es": "explorar",
+    "example": "The committee has been exploring alternative solutions to the problem at hand.",
+    "image_query": "person exploring forest",
+    "frequency": 146,
+    "tenses": {
+      "present": "explore / explores",
+      "past": "explored",
+      "past_participle": "explored",
+      "present_continuous": "exploring",
+      "present_continuous_with_aux": "am exploring",
+      "past_continuous": "was exploring",
+      "present_perfect": "have/has explored",
+      "past_perfect": "had explored",
+      "future": "will explore",
+      "future_perfect": "will have explored"
+    }
+  },
+  {
+    "base": "arrive",
+    "meaning_en": "To reach; to get to a certain place.",
+    "meaning_es": "llegar",
+    "example": "We've just arrived at the hotel to book in, so we should arrive at Mike’s in time for lunch.",
+    "image_query": "person arriving airport",
+    "frequency": 147,
+    "tenses": {
+      "present": "arrive / arrives",
+      "past": "arrived",
+      "past_participle": "arrived",
+      "present_continuous": "arriving",
+      "present_continuous_with_aux": "am arriving",
+      "past_continuous": "was arriving",
+      "present_perfect": "have/has arrived",
+      "past_perfect": "had arrived",
+      "future": "will arrive",
+      "future_perfect": "will have arrived"
+    }
+  },
+  {
+    "base": "depart",
+    "meaning_en": "To deviate (from), be different (from), fail to conform.",
+    "meaning_es": "salir / partir",
+    "example": "His latest statements seemed to depart from party policy somewhat.",
+    "image_query": "airplane departing runway",
+    "frequency": 148,
+    "tenses": {
+      "present": "depart / departs",
+      "past": "departed",
+      "past_participle": "departed",
+      "present_continuous": "departing",
+      "present_continuous_with_aux": "am departing",
+      "past_continuous": "was departing",
+      "present_perfect": "have/has departed",
+      "past_perfect": "had departed",
+      "future": "will depart",
+      "future_perfect": "will have departed"
+    }
+  },
+  {
+    "base": "enter",
+    "meaning_en": "To go or come into an enclosed or partially enclosed space.",
+    "meaning_es": "entrar",
+    "example": "You should knock before you enter, unless you want to see me naked.",
+    "image_query": "person entering door",
+    "frequency": 149,
+    "tenses": {
+      "present": "enter / enters",
+      "past": "entered",
+      "past_participle": "entered",
+      "present_continuous": "entering",
+      "present_continuous_with_aux": "am entering",
+      "past_continuous": "was entering",
+      "present_perfect": "have/has entered",
+      "past_perfect": "had entered",
+      "future": "will enter",
+      "future_perfect": "will have entered"
+    }
+  },
+  {
+    "base": "exit",
+    "meaning_en": "To leave a scene or depart from a stage.",
+    "meaning_es": "salir",
+    "example": "Desdemona exits stage left.",
+    "image_query": "exit sign door",
+    "frequency": 150,
+    "tenses": {
+      "present": "exit / exits",
+      "past": "exited",
+      "past_participle": "exited",
+      "present_continuous": "exiting",
+      "present_continuous_with_aux": "am exiting",
+      "past_continuous": "was exiting",
+      "present_perfect": "have/has exited",
+      "past_perfect": "had exited",
+      "future": "will exit",
+      "future_perfect": "will have exited"
+    }
+  },
+  {
+    "base": "board",
+    "meaning_en": "To step or climb onto or otherwise enter a ship, aircraft, train or other conveyance.",
+    "meaning_es": "abordar",
+    "example": "It is time to board the aircraft.",
+    "image_query": "passengers boarding airplane",
+    "frequency": 151,
+    "tenses": {
+      "present": "board / boards",
+      "past": "boarded",
+      "past_participle": "boarded",
+      "present_continuous": "boarding",
+      "present_continuous_with_aux": "am boarding",
+      "past_continuous": "was boarding",
+      "present_perfect": "have/has boarded",
+      "past_perfect": "had boarded",
+      "future": "will board",
+      "future_perfect": "will have boarded"
+    }
+  },
+  {
+    "base": "greet",
+    "meaning_en": "To be perceived by (someone).",
+    "meaning_es": "saludar",
+    "example": "A brilliant dawn greeted her eyes as she looked out of the window.",
+    "image_query": "people greeting handshake",
+    "frequency": 152,
+    "tenses": {
+      "present": "greet / greets",
+      "past": "greeted",
+      "past_participle": "greeted",
+      "present_continuous": "greeting",
+      "present_continuous_with_aux": "am greeting",
+      "past_continuous": "was greeting",
+      "present_perfect": "have/has greeted",
+      "past_perfect": "had greeted",
+      "future": "will greet",
+      "future_perfect": "will have greeted"
+    }
+  },
+  {
+    "base": "welcome",
+    "meaning_en": "To accept something willingly or gladly.",
+    "meaning_es": "dar la bienvenida",
+    "example": "We welcome suggestions for improvement.",
+    "image_query": "host welcoming guests",
+    "frequency": 153,
+    "tenses": {
+      "present": "welcome / welcomes",
+      "past": "welcomed",
+      "past_participle": "welcomed",
+      "present_continuous": "welcoming",
+      "present_continuous_with_aux": "am welcoming",
+      "past_continuous": "was welcoming",
+      "present_perfect": "have/has welcomed",
+      "past_perfect": "had welcomed",
+      "future": "will welcome",
+      "future_perfect": "will have welcomed"
+    }
+  },
+  {
+    "base": "invite",
+    "meaning_en": "To ask for the presence or participation of someone or something.",
+    "meaning_es": "invitar",
+    "example": "We invited our friends round for dinner.",
+    "image_query": "person inviting friends party",
+    "frequency": 154,
+    "tenses": {
+      "present": "invite / invites",
+      "past": "invited",
+      "past_participle": "invited",
+      "present_continuous": "inviting",
+      "present_continuous_with_aux": "am inviting",
+      "past_continuous": "was inviting",
+      "present_perfect": "have/has invited",
+      "past_perfect": "had invited",
+      "future": "will invite",
+      "future_perfect": "will have invited"
+    }
+  },
+  {
+    "base": "thank",
+    "meaning_en": "To express appreciation or gratitude toward (someone or something).",
+    "meaning_es": "agradecer",
+    "example": "She thanked him for the lift.",
+    "image_query": "person thanking another",
+    "frequency": 155,
+    "tenses": {
+      "present": "thank / thanks",
+      "past": "thanked",
+      "past_participle": "thanked",
+      "present_continuous": "thanking",
+      "present_continuous_with_aux": "am thanking",
+      "past_continuous": "was thanking",
+      "present_perfect": "have/has thanked",
+      "past_perfect": "had thanked",
+      "future": "will thank",
+      "future_perfect": "will have thanked"
+    }
+  },
+  {
+    "base": "apologize",
+    "meaning_en": "To make an apology or excuse; to acknowledge some fault or offense, with expression of regret for it, by way of amends",
+    "meaning_es": "disculparse",
+    "example": "My correspondent apologized for not answering my letter.",
+    "image_query": "person apologizing head down",
+    "frequency": 156,
+    "tenses": {
+      "present": "apologize / apologizes",
+      "past": "apologized",
+      "past_participle": "apologized",
+      "present_continuous": "apologizing",
+      "present_continuous_with_aux": "am apologizing",
+      "past_continuous": "was apologizing",
+      "present_perfect": "have/has apologized",
+      "past_perfect": "had apologized",
+      "future": "will apologize",
+      "future_perfect": "will have apologized"
+    }
+  },
+  {
+    "base": "forgive",
+    "meaning_en": "To pardon (someone); to waive any negative feeling towards or desire for punishment or retribution against.",
+    "meaning_es": "perdonar",
+    "example": "Please forgive me if my phone goes off - I'm expecting an urgent call from my boss.",
+    "image_query": "people forgiving hug",
+    "frequency": 157,
+    "tenses": {
+      "present": "forgive / forgives",
+      "past": "forgave",
+      "past_participle": "forgiven",
+      "present_continuous": "forgiving",
+      "present_continuous_with_aux": "am forgiving",
+      "past_continuous": "was forgiving",
+      "present_perfect": "have/has forgiven",
+      "past_perfect": "had forgiven",
+      "future": "will forgive",
+      "future_perfect": "will have forgiven"
+    }
+  },
+  {
+    "base": "sweep",
+    "meaning_en": "To clean (a surface) by means of a stroking motion of a broom or brush.",
+    "meaning_es": "barrer",
+    "example": "to sweep a floor, the street, or a chimney",
+    "image_query": "person sweeping floor",
+    "frequency": 158,
+    "tenses": {
+      "present": "sweep / sweeps",
+      "past": "swept",
+      "past_participle": "swept",
+      "present_continuous": "sweeping",
+      "present_continuous_with_aux": "am sweeping",
+      "past_continuous": "was sweeping",
+      "present_perfect": "have/has swept",
+      "past_perfect": "had swept",
+      "future": "will sweep",
+      "future_perfect": "will have swept"
+    }
+  },
+  {
+    "base": "mop",
+    "meaning_en": "To rub, scrub, clean or wipe with a mop, or as if with a mop.",
+    "meaning_es": "trapear",
+    "example": "to mop (or scrub) a floor",
+    "image_query": "person mopping floor",
+    "frequency": 159,
+    "tenses": {
+      "present": "mop / mops",
+      "past": "mopped",
+      "past_participle": "mopped",
+      "present_continuous": "mopping",
+      "present_continuous_with_aux": "am mopping",
+      "past_continuous": "was mopping",
+      "present_perfect": "have/has mopped",
+      "past_perfect": "had mopped",
+      "future": "will mop",
+      "future_perfect": "will have mopped"
+    }
+  },
+  {
+    "base": "iron",
+    "meaning_en": "To pass an iron over (clothing or some other item made of cloth) in order to remove creases.",
+    "meaning_es": "planchar",
+    "example": "You'd be wise to iron that shirt before you wear it.",
+    "image_query": "person ironing clothes",
+    "frequency": 160,
+    "tenses": {
+      "present": "iron / irons",
+      "past": "ironed",
+      "past_participle": "ironed",
+      "present_continuous": "ironing",
+      "present_continuous_with_aux": "am ironing",
+      "past_continuous": "was ironing",
+      "present_perfect": "have/has ironed",
+      "past_perfect": "had ironed",
+      "future": "will iron",
+      "future_perfect": "will have ironed"
+    }
+  },
+  {
+    "base": "sew",
+    "meaning_en": "To use a needle to pass thread repeatedly through (pieces of fabric) in order to join them together.",
+    "meaning_es": "coser",
+    "example": "Balls were first made of grass or leaves held together by strings, and later of pieces of animal skin sewn together and stuffed with feathers or hay.",
+    "image_query": "person sewing fabric",
+    "frequency": 161,
+    "tenses": {
+      "present": "sew / sews",
+      "past": "sewed",
+      "past_participle": "sewn",
+      "present_continuous": "sewing",
+      "present_continuous_with_aux": "am sewing",
+      "past_continuous": "was sewing",
+      "present_perfect": "have/has sewn",
+      "past_perfect": "had sewn",
+      "future": "will sew",
+      "future_perfect": "will have sewn"
+    }
+  },
+  {
+    "base": "knit",
+    "meaning_en": "To turn thread or yarn into a piece of fabric by forming loops that are pulled through each other. This can be done by hand with needles or by machine.",
+    "meaning_es": "tejer",
+    "example": "to knit a stocking",
+    "image_query": "person knitting wool",
+    "frequency": 162,
+    "tenses": {
+      "present": "knit / knits",
+      "past": "knitted",
+      "past_participle": "knitted",
+      "present_continuous": "knitting",
+      "present_continuous_with_aux": "am knitting",
+      "past_continuous": "was knitting",
+      "present_perfect": "have/has knitted",
+      "past_perfect": "had knitted",
+      "future": "will knit",
+      "future_perfect": "will have knitted"
+    }
+  },
+  {
+    "base": "hammer",
+    "meaning_en": "To strike repeatedly with a hammer, some other implement, the fist, etc.",
+    "meaning_es": "martillar",
+    "example": "Tony hammered on the door to try to get him to open.",
+    "image_query": "person hammering nail",
+    "frequency": 163,
+    "tenses": {
+      "present": "hammer / hammers",
+      "past": "hammered",
+      "past_participle": "hammered",
+      "present_continuous": "hammering",
+      "present_continuous_with_aux": "am hammering",
+      "past_continuous": "was hammering",
+      "present_perfect": "have/has hammered",
+      "past_perfect": "had hammered",
+      "future": "will hammer",
+      "future_perfect": "will have hammered"
+    }
+  },
+  {
+    "base": "screw",
+    "meaning_en": "Used to express great displeasure with, or contemptuous dismissal of, someone or something.",
+    "meaning_es": "atornillar",
+    "example": "Screw those jerks, and screw their stupid rules!",
+    "image_query": "person screwing bolt",
+    "frequency": 164,
+    "tenses": {
+      "present": "screw / screws",
+      "past": "screwed",
+      "past_participle": "screwed",
+      "present_continuous": "screwing",
+      "present_continuous_with_aux": "am screwing",
+      "past_continuous": "was screwing",
+      "present_perfect": "have/has screwed",
+      "past_perfect": "had screwed",
+      "future": "will screw",
+      "future_perfect": "will have screwed"
+    }
+  },
+  {
+    "base": "glue",
+    "meaning_en": "To join or attach something using glue.",
+    "meaning_es": "pegar (pegamento)",
+    "example": "I need to glue the chair-leg back into place.",
+    "image_query": "person gluing paper",
+    "frequency": 165,
+    "tenses": {
+      "present": "glue / glues",
+      "past": "glued",
+      "past_participle": "glued",
+      "present_continuous": "glueing",
+      "present_continuous_with_aux": "am glueing",
+      "past_continuous": "was glueing",
+      "present_perfect": "have/has glued",
+      "past_perfect": "had glued",
+      "future": "will glue",
+      "future_perfect": "will have glued"
+    }
+  },
+  {
+    "base": "deliver",
+    "meaning_en": "To set free from restraint or danger.",
+    "meaning_es": "entregar",
+    "example": "The hostage was delivered from her captors and thus preserved from any danger.",
+    "image_query": "delivery person delivering package",
+    "frequency": 166,
+    "tenses": {
+      "present": "deliver / delivers",
+      "past": "delivered",
+      "past_participle": "delivered",
+      "present_continuous": "delivering",
+      "present_continuous_with_aux": "am delivering",
+      "past_continuous": "was delivering",
+      "present_perfect": "have/has delivered",
+      "past_perfect": "had delivered",
+      "future": "will deliver",
+      "future_perfect": "will have delivered"
+    }
+  },
+  {
+    "base": "milk",
+    "meaning_en": "To express milk from (a mammal, especially a cow).",
+    "meaning_es": "ordeñar",
+    "example": "The farmer milked his cows.",
+    "image_query": "person milking cow",
+    "frequency": 167,
+    "tenses": {
+      "present": "milk / milks",
+      "past": "milked",
+      "past_participle": "milked",
+      "present_continuous": "milking",
+      "present_continuous_with_aux": "am milking",
+      "past_continuous": "was milking",
+      "present_perfect": "have/has milked",
+      "past_perfect": "had milked",
+      "future": "will milk",
+      "future_perfect": "will have milked"
+    }
+  },
+  {
+    "base": "harvest",
+    "meaning_en": "To bring in a harvest; reap; glean.",
+    "meaning_es": "cosechar",
+    "example": "We harvested the apples in September already.",
+    "image_query": "person harvesting wheat",
+    "frequency": 168,
+    "tenses": {
+      "present": "harvest / harvests",
+      "past": "harvested",
+      "past_participle": "harvested",
+      "present_continuous": "harvesting",
+      "present_continuous_with_aux": "am harvesting",
+      "past_continuous": "was harvesting",
+      "present_perfect": "have/has harvested",
+      "past_perfect": "had harvested",
+      "future": "will harvest",
+      "future_perfect": "will have harvested"
+    }
+  },
+  {
+    "base": "rake",
+    "meaning_en": "Often followed by in: to gather (things which are apart) together, especially quickly.",
+    "meaning_es": "rastrillar",
+    "example": "The casino is just raking in the cash; it’s like a licence to print money.",
+    "image_query": "person raking leaves",
+    "frequency": 169,
+    "tenses": {
+      "present": "rake / rakes",
+      "past": "raked",
+      "past_participle": "raked",
+      "present_continuous": "raking",
+      "present_continuous_with_aux": "am raking",
+      "past_continuous": "was raking",
+      "present_perfect": "have/has raked",
+      "past_perfect": "had raked",
+      "future": "will rake",
+      "future_perfect": "will have raked"
+    }
+  },
+  {
+    "base": "mow",
+    "meaning_en": "To cut down grass or crops.",
+    "meaning_es": "cortar el césped",
+    "example": "He mowed the lawn every few weeks in the summer.",
+    "image_query": "person mowing lawn",
+    "frequency": 170,
+    "tenses": {
+      "present": "mow / mows",
+      "past": "mowed",
+      "past_participle": "mowed",
+      "present_continuous": "mowing",
+      "present_continuous_with_aux": "am mowing",
+      "past_continuous": "was mowing",
+      "present_perfect": "have/has mowed",
+      "past_perfect": "had mowed",
+      "future": "will mow",
+      "future_perfect": "will have mowed"
+    }
+  },
+  {
+    "base": "pick",
+    "meaning_en": "To grasp and pull with the fingers or fingernails.",
+    "meaning_es": "recoger / elegir",
+    "example": "Don't pick at that scab.",
+    "image_query": "person picking apples",
+    "frequency": 171,
+    "tenses": {
+      "present": "pick / picks",
+      "past": "picked",
+      "past_participle": "picked",
+      "present_continuous": "picking",
+      "present_continuous_with_aux": "am picking",
+      "past_continuous": "was picking",
+      "present_perfect": "have/has picked",
+      "past_perfect": "had picked",
+      "future": "will pick",
+      "future_perfect": "will have picked"
+    }
+  },
+  {
+    "base": "gather",
+    "meaning_en": "Especially, to harvest food.",
+    "meaning_es": "juntar / reunir",
+    "example": "We went to gather some blackberries from the nearby lane.",
+    "image_query": "person gathering berries",
+    "frequency": 172,
+    "tenses": {
+      "present": "gather / gathers",
+      "past": "gathered",
+      "past_participle": "gathered",
+      "present_continuous": "gathering",
+      "present_continuous_with_aux": "am gathering",
+      "past_continuous": "was gathering",
+      "present_perfect": "have/has gathered",
+      "past_perfect": "had gathered",
+      "future": "will gather",
+      "future_perfect": "will have gathered"
+    }
+  },
+  {
+    "base": "collect",
+    "meaning_en": "To gather together; amass.",
+    "meaning_es": "coleccionar",
+    "example": "Suzanne collected all the papers she had laid out.",
+    "image_query": "person collecting stamps",
+    "frequency": 173,
+    "tenses": {
+      "present": "collect / collects",
+      "past": "collected",
+      "past_participle": "collected",
+      "present_continuous": "collecting",
+      "present_continuous_with_aux": "am collecting",
+      "past_continuous": "was collecting",
+      "present_perfect": "have/has collected",
+      "past_perfect": "had collected",
+      "future": "will collect",
+      "future_perfect": "will have collected"
+    }
+  },
+  {
+    "base": "save",
+    "meaning_en": "To help (somebody) to survive, or rescue (somebody or something) from harm.",
+    "meaning_es": "ahorrar",
+    "example": "She was saved from drowning by a passer-by.",
+    "image_query": "person saving money piggy bank",
+    "frequency": 174,
+    "tenses": {
+      "present": "save / saves",
+      "past": "saved",
+      "past_participle": "saved",
+      "present_continuous": "saving",
+      "present_continuous_with_aux": "am saving",
+      "past_continuous": "was saving",
+      "present_perfect": "have/has saved",
+      "past_perfect": "had saved",
+      "future": "will save",
+      "future_perfect": "will have saved"
+    }
+  },
+  {
+    "base": "spend",
+    "meaning_en": "To pay out (money).",
+    "meaning_es": "gastar",
+    "example": "I've already spent hundreds of dollars buying dog chow.",
+    "image_query": "person spending money",
+    "frequency": 175,
+    "tenses": {
+      "present": "spend / spends",
+      "past": "spent",
+      "past_participle": "spent",
+      "present_continuous": "spending",
+      "present_continuous_with_aux": "am spending",
+      "past_continuous": "was spending",
+      "present_perfect": "have/has spent",
+      "past_perfect": "had spent",
+      "future": "will spend",
+      "future_perfect": "will have spent"
+    }
+  },
+  {
+    "base": "earn",
+    "meaning_en": "To gain (success, reward, recognition) through applied effort or work.",
+    "meaning_es": "ganar (dinero)",
+    "example": "You can have the s'mores: you earned them, clearing the walkway of snow so well.",
+    "image_query": "person receiving salary check",
+    "frequency": 176,
+    "tenses": {
+      "present": "earn / earns",
+      "past": "earned",
+      "past_participle": "earned",
+      "present_continuous": "earning",
+      "present_continuous_with_aux": "am earning",
+      "past_continuous": "was earning",
+      "present_perfect": "have/has earned",
+      "past_perfect": "had earned",
+      "future": "will earn",
+      "future_perfect": "will have earned"
+    }
+  },
+  {
+    "base": "burn",
+    "meaning_en": "To cause to be consumed by fire.",
+    "meaning_es": "quemar",
+    "example": "He burned his manuscript in the fireplace.",
+    "image_query": "candle burning",
+    "frequency": 177,
+    "tenses": {
+      "present": "burn / burns",
+      "past": "burned",
+      "past_participle": "burned",
+      "present_continuous": "burning",
+      "present_continuous_with_aux": "am burning",
+      "past_continuous": "was burning",
+      "present_perfect": "have/has burned",
+      "past_perfect": "had burned",
+      "future": "will burn",
+      "future_perfect": "will have burned"
+    }
+  },
+  {
+    "base": "light",
+    "meaning_en": "To start (a fire).",
+    "meaning_es": "encender",
+    "example": "We lit the fire to get some heat.",
+    "image_query": "person lighting match candle",
+    "frequency": 178,
+    "tenses": {
+      "present": "light / lights",
+      "past": "lit",
+      "past_participle": "lit",
+      "present_continuous": "lighting",
+      "present_continuous_with_aux": "am lighting",
+      "past_continuous": "was lighting",
+      "present_perfect": "have/has lit",
+      "past_perfect": "had lit",
+      "future": "will light",
+      "future_perfect": "will have lit"
+    }
+  },
+  {
+    "base": "blow",
+    "meaning_en": "To propel by an air current (or, if under water, a water current), usually with the mouth.",
+    "meaning_es": "soplar",
+    "example": "Blow the dust off that book and open it up.",
+    "image_query": "person blowing birthday candles",
+    "frequency": 179,
+    "tenses": {
+      "present": "blow / blows",
+      "past": "blew",
+      "past_participle": "blown",
+      "present_continuous": "blowing",
+      "present_continuous_with_aux": "am blowing",
+      "past_continuous": "was blowing",
+      "present_perfect": "have/has blown",
+      "past_perfect": "had blown",
+      "future": "will blow",
+      "future_perfect": "will have blown"
+    }
+  },
+  {
+    "base": "whistle",
+    "meaning_en": "To make a shrill, high-pitched sound by forcing air through the mouth. To produce a whistling sound, restrictions to the flow of air are created using the teeth, tongue and lips.",
+    "meaning_es": "silbar",
+    "example": "Never whistle at a funeral.",
+    "image_query": "person whistling hands",
+    "frequency": 180,
+    "tenses": {
+      "present": "whistle / whistles",
+      "past": "whistled",
+      "past_participle": "whistled",
+      "present_continuous": "whistling",
+      "present_continuous_with_aux": "am whistling",
+      "past_continuous": "was whistling",
+      "present_perfect": "have/has whistled",
+      "past_perfect": "had whistled",
+      "future": "will whistle",
+      "future_perfect": "will have whistled"
+    }
+  },
+  {
+    "base": "record",
+    "meaning_en": "To make a record of information.",
+    "meaning_es": "grabar",
+    "example": "I wanted to record every detail of what happened, for the benefit of future generations.",
+    "image_query": "person recording video camera",
+    "frequency": 181,
+    "tenses": {
+      "present": "record / records",
+      "past": "recorded",
+      "past_participle": "recorded",
+      "present_continuous": "recording",
+      "present_continuous_with_aux": "am recording",
+      "past_continuous": "was recording",
+      "present_perfect": "have/has recorded",
+      "past_perfect": "had recorded",
+      "future": "will record",
+      "future_perfect": "will have recorded"
+    }
+  },
+  {
+    "base": "film",
+    "meaning_en": "To record (activity, or a motion picture) on photographic film.",
+    "meaning_es": "filmar",
+    "example": "A Hollywood studio was filming on location in NYC.",
+    "image_query": "person filming camera",
+    "frequency": 182,
+    "tenses": {
+      "present": "film / films",
+      "past": "filmed",
+      "past_participle": "filmed",
+      "present_continuous": "filming",
+      "present_continuous_with_aux": "am filming",
+      "past_continuous": "was filming",
+      "present_perfect": "have/has filmed",
+      "past_perfect": "had filmed",
+      "future": "will film",
+      "future_perfect": "will have filmed"
+    }
+  },
+  {
+    "base": "photograph",
+    "meaning_en": "To appear in a photograph.",
+    "meaning_es": "fotografiar",
+    "example": "She photographs well. The camera loves her.",
+    "image_query": "photographer photographing",
+    "frequency": 183,
+    "tenses": {
+      "present": "photograph / photographs",
+      "past": "photographed",
+      "past_participle": "photographed",
+      "present_continuous": "photographing",
+      "present_continuous_with_aux": "am photographing",
+      "past_continuous": "was photographing",
+      "present_perfect": "have/has photographed",
+      "past_perfect": "had photographed",
+      "future": "will photograph",
+      "future_perfect": "will have photographed"
+    }
+  },
+  {
+    "base": "capture",
+    "meaning_en": "To take control of; to seize by force or stratagem.",
+    "meaning_es": "capturar",
+    "example": "to capture an enemy, a vessel, or a criminal",
+    "image_query": "person catching butterfly net",
+    "frequency": 184,
+    "tenses": {
+      "present": "capture / captures",
+      "past": "captured",
+      "past_participle": "captured",
+      "present_continuous": "capturing",
+      "present_continuous_with_aux": "am capturing",
+      "past_continuous": "was capturing",
+      "present_perfect": "have/has captured",
+      "past_perfect": "had captured",
+      "future": "will capture",
+      "future_perfect": "will have captured"
+    }
+  },
+  {
+    "base": "release",
+    "meaning_en": "To let go of; to cease to hold or contain.",
+    "meaning_es": "soltar / liberar",
+    "example": "He released his grasp on the lever.",
+    "image_query": "person releasing bird",
+    "frequency": 185,
+    "tenses": {
+      "present": "release / releases",
+      "past": "released",
+      "past_participle": "released",
+      "present_continuous": "releasing",
+      "present_continuous_with_aux": "am releasing",
+      "past_continuous": "was releasing",
+      "present_perfect": "have/has released",
+      "past_perfect": "had released",
+      "future": "will release",
+      "future_perfect": "will have released"
+    }
+  },
+  {
+    "base": "hide",
+    "meaning_en": "To put (something) in a place where it will be out of sight or harder to discover.",
+    "meaning_es": "esconder",
+    "example": "He hides his magazines under the bed.",
+    "image_query": "child hiding behind door",
+    "frequency": 186,
+    "tenses": {
+      "present": "hide / hides",
+      "past": "hid",
+      "past_participle": "hidden",
+      "present_continuous": "hiding",
+      "present_continuous_with_aux": "am hiding",
+      "past_continuous": "was hiding",
+      "present_perfect": "have/has hidden",
+      "past_perfect": "had hidden",
+      "future": "will hide",
+      "future_perfect": "will have hidden"
+    }
+  },
+  {
+    "base": "search",
+    "meaning_en": "To look in (a place) for something.",
+    "meaning_es": "buscar",
+    "example": "I searched the garden for the keys and found them in the vegetable patch.",
+    "image_query": "person searching magnifying glass",
+    "frequency": 187,
+    "tenses": {
+      "present": "search / searches",
+      "past": "searched",
+      "past_participle": "searched",
+      "present_continuous": "searching",
+      "present_continuous_with_aux": "am searching",
+      "past_continuous": "was searching",
+      "present_perfect": "have/has searched",
+      "past_perfect": "had searched",
+      "future": "will search",
+      "future_perfect": "will have searched"
+    }
+  },
+  {
+    "base": "observe",
+    "meaning_en": "To notice or view, especially carefully or with attention to detail.",
+    "meaning_es": "observar",
+    "example": "From this vantage point we can observe the behavior of the animals in their natural habitat.",
+    "image_query": "person observing telescope",
+    "frequency": 188,
+    "tenses": {
+      "present": "observe / observes",
+      "past": "observed",
+      "past_participle": "observed",
+      "present_continuous": "observing",
+      "present_continuous_with_aux": "am observing",
+      "past_continuous": "was observing",
+      "present_perfect": "have/has observed",
+      "past_perfect": "had observed",
+      "future": "will observe",
+      "future_perfect": "will have observed"
+    }
+  },
+  {
+    "base": "yawn",
+    "meaning_en": "To open the mouth widely and take a long, rather deep breath, often because one is tired or bored, and sometimes accompanied by pandiculation.",
+    "meaning_es": "bostezar",
+    "example": "I could see my students yawning, so I knew the lesson was boring them.",
+    "image_query": "person yawning",
+    "frequency": 189,
+    "tenses": {
+      "present": "yawn / yawns",
+      "past": "yawned",
+      "past_participle": "yawned",
+      "present_continuous": "yawning",
+      "present_continuous_with_aux": "am yawning",
+      "past_continuous": "was yawning",
+      "present_perfect": "have/has yawned",
+      "past_perfect": "had yawned",
+      "future": "will yawn",
+      "future_perfect": "will have yawned"
+    }
+  },
+  {
+    "base": "sneeze",
+    "meaning_en": "To expel air as a reflex induced by an irritation in the nose.",
+    "meaning_es": "estornudar",
+    "example": "To avoid passing on your illness, you should sneeze into your sleeve.",
+    "image_query": "person sneezing",
+    "frequency": 190,
+    "tenses": {
+      "present": "sneeze / sneezes",
+      "past": "sneezed",
+      "past_participle": "sneezed",
+      "present_continuous": "sneezing",
+      "present_continuous_with_aux": "am sneezing",
+      "past_continuous": "was sneezing",
+      "present_perfect": "have/has sneezed",
+      "past_perfect": "had sneezed",
+      "future": "will sneeze",
+      "future_perfect": "will have sneezed"
+    }
+  },
+  {
+    "base": "cough",
+    "meaning_en": "Sometimes followed by up: to force (something) out of the lungs or throat by pushing air from the lungs through the glottis (causing a short, explosive sound), and out through the mouth.",
+    "meaning_es": "toser",
+    "example": "Sometimes she coughed up blood.",
+    "image_query": "person coughing",
+    "frequency": 191,
+    "tenses": {
+      "present": "cough / coughs",
+      "past": "coughed",
+      "past_participle": "coughed",
+      "present_continuous": "coughing",
+      "present_continuous_with_aux": "am coughing",
+      "past_continuous": "was coughing",
+      "present_perfect": "have/has coughed",
+      "past_perfect": "had coughed",
+      "future": "will cough",
+      "future_perfect": "will have coughed"
+    }
+  },
+  {
+    "base": "breathe",
+    "meaning_en": "To take in needed gases and expel waste gases in a similar way.",
+    "meaning_es": "respirar",
+    "example": "Fish have gills so they can breathe underwater.",
+    "image_query": "person breathing meditation",
+    "frequency": 192,
+    "tenses": {
+      "present": "breathe / breathes",
+      "past": "breathed",
+      "past_participle": "breathed",
+      "present_continuous": "breathing",
+      "present_continuous_with_aux": "am breathing",
+      "past_continuous": "was breathing",
+      "present_perfect": "have/has breathed",
+      "past_perfect": "had breathed",
+      "future": "will breathe",
+      "future_perfect": "will have breathed"
+    }
+  },
+  {
+    "base": "sigh",
+    "meaning_en": "To inhale a larger quantity of air than usual, and immediately expel it; to make a deep single audible respiration, especially as the result or involuntary expression of fatigue, exhaustion, grief, sorrow, frustration, or the like.",
+    "meaning_es": "suspirar",
+    "example": "When she saw it wasn't damaged, she sighed with relief.",
+    "image_query": "person sighing",
+    "frequency": 193,
+    "tenses": {
+      "present": "sigh / sighs",
+      "past": "sighed",
+      "past_participle": "sighed",
+      "present_continuous": "sighing",
+      "present_continuous_with_aux": "am sighing",
+      "past_continuous": "was sighing",
+      "present_perfect": "have/has sighed",
+      "past_perfect": "had sighed",
+      "future": "will sigh",
+      "future_perfect": "will have sighed"
+    }
+  },
+  {
+    "base": "bark",
+    "meaning_en": "To make a short, loud, explosive noise with the vocal organs (said of animals, especially dogs).",
+    "meaning_es": "ladrar",
+    "example": "The neighbour's dog is always barking.",
+    "image_query": "dog barking",
+    "frequency": 194,
+    "tenses": {
+      "present": "bark / barks",
+      "past": "barked",
+      "past_participle": "barked",
+      "present_continuous": "barking",
+      "present_continuous_with_aux": "am barking",
+      "past_continuous": "was barking",
+      "present_perfect": "have/has barked",
+      "past_perfect": "had barked",
+      "future": "will bark",
+      "future_perfect": "will have barked"
+    }
+  },
+  {
+    "base": "purr",
+    "meaning_en": "To make a vibrating throaty sound, as from pleasure.",
+    "meaning_es": "ronronear",
+    "example": "He purred like a kitten when she massaged his neck.",
+    "image_query": "cat purring",
+    "frequency": 195,
+    "tenses": {
+      "present": "purr / purrs",
+      "past": "purred",
+      "past_participle": "purred",
+      "present_continuous": "purring",
+      "present_continuous_with_aux": "am purring",
+      "past_continuous": "was purring",
+      "present_perfect": "have/has purred",
+      "past_perfect": "had purred",
+      "future": "will purr",
+      "future_perfect": "will have purred"
+    }
+  },
+  {
+    "base": "roar",
+    "meaning_en": "To laugh in a particularly loud manner.",
+    "meaning_es": "rugir",
+    "example": "The audience roared at his jokes.",
+    "image_query": "lion roaring",
+    "frequency": 196,
+    "tenses": {
+      "present": "roar / roars",
+      "past": "roared",
+      "past_participle": "roared",
+      "present_continuous": "roaring",
+      "present_continuous_with_aux": "am roaring",
+      "past_continuous": "was roaring",
+      "present_perfect": "have/has roared",
+      "past_perfect": "had roared",
+      "future": "will roar",
+      "future_perfect": "will have roared"
+    }
+  },
+  {
+    "base": "fish",
+    "meaning_en": "To hunt fish or other aquatic animals in a body of water, or to collect coral or pearls from the bottom of the sea.",
+    "meaning_es": "pescar",
+    "example": "We went fishing for crabs by the pier.",
+    "image_query": "person fishing lake",
+    "frequency": 197,
+    "tenses": {
+      "present": "fish / fishes",
+      "past": "fished",
+      "past_participle": "fished",
+      "present_continuous": "fishing",
+      "present_continuous_with_aux": "am fishing",
+      "past_continuous": "was fishing",
+      "present_perfect": "have/has fished",
+      "past_perfect": "had fished",
+      "future": "will fish",
+      "future_perfect": "will have fished"
+    }
+  },
+  {
+    "base": "grill",
+    "meaning_en": "To cook (food) on a grill; to barbecue.",
+    "meaning_es": "asar a la parrilla",
+    "example": "Why don't we get together Saturday and grill some burgers?",
+    "image_query": "person grilling meat barbecue",
+    "frequency": 198,
+    "tenses": {
+      "present": "grill / grills",
+      "past": "grilled",
+      "past_participle": "grilled",
+      "present_continuous": "grilling",
+      "present_continuous_with_aux": "am grilling",
+      "past_continuous": "was grilling",
+      "present_perfect": "have/has grilled",
+      "past_perfect": "had grilled",
+      "future": "will grill",
+      "future_perfect": "will have grilled"
+    }
+  },
+  {
+    "base": "toast",
+    "meaning_en": "To cook lightly by browning by means of direct exposure to a fire or other heat source.",
+    "meaning_es": "tostar",
+    "example": "We used to enjoy toasting marshmallows around the campfire.",
+    "image_query": "person toasting bread",
+    "frequency": 199,
+    "tenses": {
+      "present": "toast / toasts",
+      "past": "toasted",
+      "past_participle": "toasted",
+      "present_continuous": "toasting",
+      "present_continuous_with_aux": "am toasting",
+      "past_continuous": "was toasting",
+      "present_perfect": "have/has toasted",
+      "past_perfect": "had toasted",
+      "future": "will toast",
+      "future_perfect": "will have toasted"
+    }
+  },
+  {
+    "base": "roast",
+    "meaning_en": "To cook food by heating in an oven or over a fire without covering, resulting in a crisp, possibly even slightly charred appearance.",
+    "meaning_es": "asar",
+    "example": "to roast meat on a spit",
+    "image_query": "roasting chicken oven",
+    "frequency": 200,
+    "tenses": {
+      "present": "roast / roasts",
+      "past": "roasted",
+      "past_participle": "roasted",
+      "present_continuous": "roasting",
+      "present_continuous_with_aux": "am roasting",
+      "past_continuous": "was roasting",
+      "present_perfect": "have/has roasted",
+      "past_perfect": "had roasted",
+      "future": "will roast",
+      "future_perfect": "will have roasted"
+    }
+  },
+  {
+    "base": "steam",
+    "meaning_en": "To cook with steam.",
+    "meaning_es": "cocer al vapor",
+    "example": "The best way to cook artichokes is to steam them.",
+    "image_query": "steaming vegetables",
+    "frequency": 201,
+    "tenses": {
+      "present": "steam / steams",
+      "past": "steamed",
+      "past_participle": "steamed",
+      "present_continuous": "steaming",
+      "present_continuous_with_aux": "am steaming",
+      "past_continuous": "was steaming",
+      "present_perfect": "have/has steamed",
+      "past_perfect": "had steamed",
+      "future": "will steam",
+      "future_perfect": "will have steamed"
+    }
+  },
+  {
+    "base": "cheer",
+    "meaning_en": "To gladden; to make cheerful; often with up.",
+    "meaning_es": "animar / vitorear",
+    "example": "We were cheered by the offer of a cup of tea.",
+    "image_query": "crowd cheering stadium",
+    "frequency": 202,
+    "tenses": {
+      "present": "cheer / cheers",
+      "past": "cheered",
+      "past_participle": "cheered",
+      "present_continuous": "cheering",
+      "present_continuous_with_aux": "am cheering",
+      "past_continuous": "was cheering",
+      "present_perfect": "have/has cheered",
+      "past_perfect": "had cheered",
+      "future": "will cheer",
+      "future_perfect": "will have cheered"
+    }
+  },
+  {
+    "base": "whisper",
+    "meaning_en": "To speak softly or under one's breath, so as to be heard only by one near at hand; to utter words without sonant breath; to talk without that vibration of the vocal cords which gives sonorous, or vocal, sound.",
+    "meaning_es": "susurrar",
+    "example": "They whisper every day.",
+    "image_query": "person whispering secret",
+    "frequency": 203,
+    "tenses": {
+      "present": "whisper / whispers",
+      "past": "whispered",
+      "past_participle": "whispered",
+      "present_continuous": "whispering",
+      "present_continuous_with_aux": "am whispering",
+      "past_continuous": "was whispering",
+      "present_perfect": "have/has whispered",
+      "past_perfect": "had whispered",
+      "future": "will whisper",
+      "future_perfect": "will have whispered"
+    }
+  },
+  {
+    "base": "shout",
+    "meaning_en": "To utter a sudden and loud cry, as in joy, triumph, exultation or anger, or to attract attention, to animate others, etc.",
+    "meaning_es": "gritar",
+    "example": "Mom shouted to us to come sit at the table.",
+    "image_query": "person shouting megaphone",
+    "frequency": 204,
+    "tenses": {
+      "present": "shout / shouts",
+      "past": "shouted",
+      "past_participle": "shouted",
+      "present_continuous": "shouting",
+      "present_continuous_with_aux": "am shouting",
+      "past_continuous": "was shouting",
+      "present_perfect": "have/has shouted",
+      "past_perfect": "had shouted",
+      "future": "will shout",
+      "future_perfect": "will have shouted"
+    }
+  },
+  {
+    "base": "scream",
+    "meaning_en": "To move quickly; to race.",
+    "meaning_es": "chillar / gritar",
+    "example": "He almost hit a pole, the way he came screaming down the hill.",
+    "image_query": "person screaming",
+    "frequency": 205,
+    "tenses": {
+      "present": "scream / screams",
+      "past": "screamed",
+      "past_participle": "screamed",
+      "present_continuous": "screaming",
+      "present_continuous_with_aux": "am screaming",
+      "past_continuous": "was screaming",
+      "present_perfect": "have/has screamed",
+      "past_perfect": "had screamed",
+      "future": "will scream",
+      "future_perfect": "will have screamed"
+    }
+  },
+  {
+    "base": "argue",
+    "meaning_en": "To show grounds for concluding (that); to indicate, imply.",
+    "meaning_es": "discutir",
+    "example": "The new increase in crime argues for even tougher jail sentences, according to some.",
+    "image_query": "people arguing",
+    "frequency": 206,
+    "tenses": {
+      "present": "argue / argues",
+      "past": "argued",
+      "past_participle": "argued",
+      "present_continuous": "argueing",
+      "present_continuous_with_aux": "am argueing",
+      "past_continuous": "was argueing",
+      "present_perfect": "have/has argued",
+      "past_perfect": "had argued",
+      "future": "will argue",
+      "future_perfect": "will have argued"
+    }
+  },
+  {
+    "base": "pray",
+    "meaning_en": "To direct words, thoughts, or one's attention to a deity or any higher being, for the sake of adoration, thanks, petition for help, etc.",
+    "meaning_es": "rezar",
+    "example": "Muslims pray in the direction of Mecca.",
+    "image_query": "person praying hands",
+    "frequency": 207,
+    "tenses": {
+      "present": "pray / prays",
+      "past": "prayed",
+      "past_participle": "prayed",
+      "present_continuous": "praying",
+      "present_continuous_with_aux": "am praying",
+      "past_continuous": "was praying",
+      "present_perfect": "have/has prayed",
+      "past_perfect": "had prayed",
+      "future": "will pray",
+      "future_perfect": "will have prayed"
+    }
+  },
+  {
+    "base": "meditate",
+    "meaning_en": "To contemplate; to keep the mind fixed upon something; to study.",
+    "meaning_es": "meditar",
+    "example": "They meditate every day.",
+    "image_query": "person meditating",
+    "frequency": 208,
+    "tenses": {
+      "present": "meditate / meditates",
+      "past": "meditated",
+      "past_participle": "meditated",
+      "present_continuous": "meditating",
+      "present_continuous_with_aux": "am meditating",
+      "past_continuous": "was meditating",
+      "present_perfect": "have/has meditated",
+      "past_perfect": "had meditated",
+      "future": "will meditate",
+      "future_perfect": "will have meditated"
+    }
+  },
+  {
+    "base": "create",
+    "meaning_en": "To cause, to bring (a non-object) about by an action, behavior, or event, to occasion.",
+    "meaning_es": "crear",
+    "example": "crop failures created food shortages and high prices; his stubbornness created many difficulties",
+    "image_query": "artist creating sculpture",
+    "frequency": 209,
+    "tenses": {
+      "present": "create / creates",
+      "past": "created",
+      "past_participle": "created",
+      "present_continuous": "creating",
+      "present_continuous_with_aux": "am creating",
+      "past_continuous": "was creating",
+      "present_perfect": "have/has created",
+      "past_perfect": "had created",
+      "future": "will create",
+      "future_perfect": "will have created"
+    }
+  },
+  {
+    "base": "design",
+    "meaning_en": "To plan and carry out (a picture, work of art, construction etc.).",
+    "meaning_es": "diseñar",
+    "example": "He always designs gaming laptops from 4:00 pm to 1:00 am.",
+    "image_query": "designer drawing blueprint",
+    "frequency": 210,
+    "tenses": {
+      "present": "design / designs",
+      "past": "designed",
+      "past_participle": "designed",
+      "present_continuous": "designing",
+      "present_continuous_with_aux": "am designing",
+      "past_continuous": "was designing",
+      "present_perfect": "have/has designed",
+      "past_perfect": "had designed",
+      "future": "will design",
+      "future_perfect": "will have designed"
+    }
+  },
+  {
+    "base": "wait",
+    "meaning_en": "To delay movement or action until some event or time; to remain neglected or in readiness.",
+    "meaning_es": "esperar",
+    "example": "Wait here until your car arrives.",
+    "image_query": "person waiting bus stop",
+    "frequency": 211,
+    "tenses": {
+      "present": "wait / waits",
+      "past": "waited",
+      "past_participle": "waited",
+      "present_continuous": "waiting",
+      "present_continuous_with_aux": "am waiting",
+      "past_continuous": "was waiting",
+      "present_perfect": "have/has waited",
+      "past_perfect": "had waited",
+      "future": "will wait",
+      "future_perfect": "will have waited"
+    }
+  },
+  {
+    "base": "hurry",
+    "meaning_en": "To do things quickly.",
+    "meaning_es": "darse prisa",
+    "example": "He's hurrying because he's late.",
+    "image_query": "person hurrying rushing",
+    "frequency": 212,
+    "tenses": {
+      "present": "hurry / hurries",
+      "past": "hurried",
+      "past_participle": "hurried",
+      "present_continuous": "hurrying",
+      "present_continuous_with_aux": "am hurrying",
+      "past_continuous": "was hurrying",
+      "present_perfect": "have/has hurried",
+      "past_perfect": "had hurried",
+      "future": "will hurry",
+      "future_perfect": "will have hurried"
+    }
+  },
+  {
+    "base": "frown",
+    "meaning_en": "To have a frown on one's face.",
+    "meaning_es": "fruncir el ceño",
+    "example": "She frowned when I told her the news.",
+    "image_query": "person frowning",
+    "frequency": 213,
+    "tenses": {
+      "present": "frown / frowns",
+      "past": "frowned",
+      "past_participle": "frowned",
+      "present_continuous": "frowning",
+      "present_continuous_with_aux": "am frowning",
+      "past_continuous": "was frowning",
+      "present_perfect": "have/has frowned",
+      "past_perfect": "had frowned",
+      "future": "will frown",
+      "future_perfect": "will have frowned"
+    }
+  },
+  {
+    "base": "shrug",
+    "meaning_en": "To raise (the shoulders) to express uncertainty, lack of concern, (formerly) dread, etc.",
+    "meaning_es": "encogerse de hombros",
+    "example": "I asked him for an answer and he just shrugged.",
+    "image_query": "person shrugging",
+    "frequency": 214,
+    "tenses": {
+      "present": "shrug / shrugs",
+      "past": "shruged",
+      "past_participle": "shruged",
+      "present_continuous": "shrugging",
+      "present_continuous_with_aux": "am shrugging",
+      "past_continuous": "was shrugging",
+      "present_perfect": "have/has shruged",
+      "past_perfect": "had shruged",
+      "future": "will shrug",
+      "future_perfect": "will have shruged"
+    }
+  },
+  {
+    "base": "nod",
+    "meaning_en": "To signify by a nod.",
+    "meaning_es": "asentir",
+    "example": "They nodded their assent.",
+    "image_query": "person nodding head",
+    "frequency": 215,
+    "tenses": {
+      "present": "nod / nods",
+      "past": "nodded",
+      "past_participle": "nodded",
+      "present_continuous": "nodding",
+      "present_continuous_with_aux": "am nodding",
+      "past_continuous": "was nodding",
+      "present_perfect": "have/has nodded",
+      "past_perfect": "had nodded",
+      "future": "will nod",
+      "future_perfect": "will have nodded"
+    }
+  },
+  {
+    "base": "bow",
+    "meaning_en": "To play music on (a stringed) instrument using a bow.",
+    "meaning_es": "hacer una reverencia",
+    "example": "The musician bowed his violin expertly.",
+    "image_query": "person bowing",
+    "frequency": 216,
+    "tenses": {
+      "present": "bow / bows",
+      "past": "bowed",
+      "past_participle": "bowed",
+      "present_continuous": "bowing",
+      "present_continuous_with_aux": "am bowing",
+      "past_continuous": "was bowing",
+      "present_perfect": "have/has bowed",
+      "past_perfect": "had bowed",
+      "future": "will bow",
+      "future_perfect": "will have bowed"
+    }
+  },
+  {
+    "base": "wink",
+    "meaning_en": "To blink with only one eye as a message, signal, or suggestion, usually with an implication of conspiracy. (When transitive, the object may be the eye being winked, or the message being conveyed.)",
+    "meaning_es": "guiñar el ojo",
+    "example": "He winked at me. She winked her eye. He winked his assent.",
+    "image_query": "person winking",
+    "frequency": 217,
+    "tenses": {
+      "present": "wink / winks",
+      "past": "winked",
+      "past_participle": "winked",
+      "present_continuous": "winking",
+      "present_continuous_with_aux": "am winking",
+      "past_continuous": "was winking",
+      "present_perfect": "have/has winked",
+      "past_perfect": "had winked",
+      "future": "will wink",
+      "future_perfect": "will have winked"
+    }
+  },
+  {
+    "base": "stumble",
+    "meaning_en": "To trip or fall; to walk clumsily.",
+    "meaning_es": "tropezar",
+    "example": "He stumbled over a rock.",
+    "image_query": "person stumbling falling",
+    "frequency": 218,
+    "tenses": {
+      "present": "stumble / stumbles",
+      "past": "stumbled",
+      "past_participle": "stumbled",
+      "present_continuous": "stumbling",
+      "present_continuous_with_aux": "am stumbling",
+      "past_continuous": "was stumbling",
+      "present_perfect": "have/has stumbled",
+      "past_perfect": "had stumbled",
+      "future": "will stumble",
+      "future_perfect": "will have stumbled"
+    }
+  },
+  {
+    "base": "march",
+    "meaning_en": "To walk with long, regular strides, as a soldier does.",
+    "meaning_es": "marchar",
+    "example": "They march every day.",
+    "image_query": "soldiers marching",
+    "frequency": 219,
+    "tenses": {
+      "present": "march / marches",
+      "past": "marched",
+      "past_participle": "marched",
+      "present_continuous": "marching",
+      "present_continuous_with_aux": "am marching",
+      "past_continuous": "was marching",
+      "present_perfect": "have/has marched",
+      "past_perfect": "had marched",
+      "future": "will march",
+      "future_perfect": "will have marched"
+    }
+  },
+  {
+    "base": "salute",
+    "meaning_en": "To make a gesture in honor of (someone or something).",
+    "meaning_es": "saludar (militar)",
+    "example": "They saluted the flag as it passed in the parade.",
+    "image_query": "soldier saluting",
+    "frequency": 220,
+    "tenses": {
+      "present": "salute / salutes",
+      "past": "saluted",
+      "past_participle": "saluted",
+      "present_continuous": "saluting",
+      "present_continuous_with_aux": "am saluting",
+      "past_continuous": "was saluting",
+      "present_perfect": "have/has saluted",
+      "past_perfect": "had saluted",
+      "future": "will salute",
+      "future_perfect": "will have saluted"
+    }
+  },
+  {
+    "base": "kneel",
+    "meaning_en": "To cause to kneel.",
+    "meaning_es": "arrodillarse",
+    "example": "She knelt the doll to fit it into the box.",
+    "image_query": "person kneeling",
+    "frequency": 221,
+    "tenses": {
+      "present": "kneel / kneels",
+      "past": "knelt",
+      "past_participle": "knelt",
+      "present_continuous": "kneeling",
+      "present_continuous_with_aux": "am kneeling",
+      "past_continuous": "was kneeling",
+      "present_perfect": "have/has knelt",
+      "past_perfect": "had knelt",
+      "future": "will kneel",
+      "future_perfect": "will have knelt"
+    }
+  },
+  {
+    "base": "crouch",
+    "meaning_en": "To bend down; to stoop low; to stand close to the ground with legs bent, like an animal when waiting for prey, or someone in fear.",
+    "meaning_es": "agacharse",
+    "example": "We crouched behind the low wall until the squad of soldiers had passed by.",
+    "image_query": "person crouching",
+    "frequency": 222,
+    "tenses": {
+      "present": "crouch / crouches",
+      "past": "crouched",
+      "past_participle": "crouched",
+      "present_continuous": "crouching",
+      "present_continuous_with_aux": "am crouching",
+      "past_continuous": "was crouching",
+      "present_perfect": "have/has crouched",
+      "past_perfect": "had crouched",
+      "future": "will crouch",
+      "future_perfect": "will have crouched"
+    }
+  },
+  {
+    "base": "squat",
+    "meaning_en": "To retire a modeling kit or group of modeling kits.",
+    "meaning_es": "ponerse en cuclillas",
+    "example": "I can't believe they squatted my favorite faction!",
+    "image_query": "person squatting exercise",
+    "frequency": 223,
+    "tenses": {
+      "present": "squat / squats",
+      "past": "squatted",
+      "past_participle": "squatted",
+      "present_continuous": "squatting",
+      "present_continuous_with_aux": "am squatting",
+      "past_continuous": "was squatting",
+      "present_perfect": "have/has squatted",
+      "past_perfect": "had squatted",
+      "future": "will squat",
+      "future_perfect": "will have squatted"
+    }
+  },
+  {
+    "base": "lie",
+    "meaning_en": "To rest in a horizontal position on a surface.",
+    "meaning_es": "tumbarse",
+    "example": "The book lies on the table; the snow lies on the roof; he lies in his coffin.",
+    "image_query": "person lying down grass",
+    "frequency": 224,
+    "tenses": {
+      "present": "lie / lies",
+      "past": "lay",
+      "past_participle": "lain",
+      "present_continuous": "lying",
+      "present_continuous_with_aux": "am lying",
+      "past_continuous": "was lying",
+      "present_perfect": "have/has lain",
+      "past_perfect": "had lain",
+      "future": "will lie",
+      "future_perfect": "will have lain"
+    }
+  },
+  {
+    "base": "rest",
+    "meaning_en": "To cease from action, motion, work, or performance of any kind; stop; desist; be without motion.",
+    "meaning_es": "descansar",
+    "example": "My day's work is over; now I will rest.",
+    "image_query": "person resting park bench",
+    "frequency": 225,
+    "tenses": {
+      "present": "rest / rests",
+      "past": "rested",
+      "past_participle": "rested",
+      "present_continuous": "resting",
+      "present_continuous_with_aux": "am resting",
+      "past_continuous": "was resting",
+      "present_perfect": "have/has rested",
+      "past_perfect": "had rested",
+      "future": "will rest",
+      "future_perfect": "will have rested"
+    }
+  },
+  {
+    "base": "relax",
+    "meaning_en": "To relieve from constipation; to loosen; to open.",
+    "meaning_es": "relajarse",
+    "example": "An aperient relaxes the bowels.",
+    "image_query": "person relaxing beach",
+    "frequency": 226,
+    "tenses": {
+      "present": "relax / relaxes",
+      "past": "relaxed",
+      "past_participle": "relaxed",
+      "present_continuous": "relaxing",
+      "present_continuous_with_aux": "am relaxing",
+      "past_continuous": "was relaxing",
+      "present_perfect": "have/has relaxed",
+      "past_perfect": "had relaxed",
+      "future": "will relax",
+      "future_perfect": "will have relaxed"
+    }
+  },
+  {
+    "base": "exercise",
+    "meaning_en": "To exert for the sake of training or improvement; to practice in order to develop.",
+    "meaning_es": "hacer ejercicio",
+    "example": "to exercise troops or horses;  to exercise one's brain with a puzzle",
+    "image_query": "person exercising gym",
+    "frequency": 227,
+    "tenses": {
+      "present": "exercise / exercises",
+      "past": "exercised",
+      "past_participle": "exercised",
+      "present_continuous": "exercising",
+      "present_continuous_with_aux": "am exercising",
+      "past_continuous": "was exercising",
+      "present_perfect": "have/has exercised",
+      "past_perfect": "had exercised",
+      "future": "will exercise",
+      "future_perfect": "will have exercised"
+    }
+  },
+  {
+    "base": "practice",
+    "meaning_en": "Alternative spelling of practise.",
+    "meaning_es": "practicar",
+    "example": "They practice every day.",
+    "image_query": "person practicing piano",
+    "frequency": 228,
+    "tenses": {
+      "present": "practice / practices",
+      "past": "practiced",
+      "past_participle": "practiced",
+      "present_continuous": "practicing",
+      "present_continuous_with_aux": "am practicing",
+      "past_continuous": "was practicing",
+      "present_perfect": "have/has practiced",
+      "past_perfect": "had practiced",
+      "future": "will practice",
+      "future_perfect": "will have practiced"
+    }
+  },
+  {
+    "base": "perform",
+    "meaning_en": "To do (something); to execute.",
+    "meaning_es": "actuar / interpretar",
+    "example": "The scientists performed several experiments.",
+    "image_query": "person performing on stage",
+    "frequency": 229,
+    "tenses": {
+      "present": "perform / performs",
+      "past": "performed",
+      "past_participle": "performed",
+      "present_continuous": "performing",
+      "present_continuous_with_aux": "am performing",
+      "past_continuous": "was performing",
+      "present_perfect": "have/has performed",
+      "past_perfect": "had performed",
+      "future": "will perform",
+      "future_perfect": "will have performed"
+    }
+  },
+  {
+    "base": "borrow",
+    "meaning_en": "To adopt (an idea) as one's own.",
+    "meaning_es": "pedir prestado",
+    "example": "to borrow the style, manner, or opinions of another",
+    "image_query": "person borrowing book library",
+    "frequency": 230,
+    "tenses": {
+      "present": "borrow / borrows",
+      "past": "borrowed",
+      "past_participle": "borrowed",
+      "present_continuous": "borrowing",
+      "present_continuous_with_aux": "am borrowing",
+      "past_continuous": "was borrowing",
+      "present_perfect": "have/has borrowed",
+      "past_perfect": "had borrowed",
+      "future": "will borrow",
+      "future_perfect": "will have borrowed"
+    }
+  },
+  {
+    "base": "lend",
+    "meaning_en": "To allow to be used by someone temporarily, on condition that it or its equivalent will be returned.",
+    "meaning_es": "prestar",
+    "example": "I will only lend you my car if you fill up the tank.",
+    "image_query": "person lending money",
+    "frequency": 231,
+    "tenses": {
+      "present": "lend / lends",
+      "past": "lent",
+      "past_participle": "lent",
+      "present_continuous": "lending",
+      "present_continuous_with_aux": "am lending",
+      "past_continuous": "was lending",
+      "present_perfect": "have/has lent",
+      "past_perfect": "had lent",
+      "future": "will lend",
+      "future_perfect": "will have lent"
+    }
+  },
+  {
+    "base": "rent",
+    "meaning_en": "To take a lease of premises in exchange for rent.",
+    "meaning_es": "alquilar",
+    "example": "I rented a house from my friend's parents for a year.",
+    "image_query": "rental car key",
+    "frequency": 232,
+    "tenses": {
+      "present": "rent / rents",
+      "past": "rented",
+      "past_participle": "rented",
+      "present_continuous": "renting",
+      "present_continuous_with_aux": "am renting",
+      "past_continuous": "was renting",
+      "present_perfect": "have/has rented",
+      "past_perfect": "had rented",
+      "future": "will rent",
+      "future_perfect": "will have rented"
+    }
+  },
+  {
+    "base": "wrestle",
+    "meaning_en": "To move or manipulate (something) using physical effort, usually with some difficulty or opposition.",
+    "meaning_es": "luchar",
+    "example": "I couldn't wrestle the trunk down the hall.",
+    "image_query": "people wrestling",
+    "frequency": 233,
+    "tenses": {
+      "present": "wrestle / wrestles",
+      "past": "wrestled",
+      "past_participle": "wrestled",
+      "present_continuous": "wrestling",
+      "present_continuous_with_aux": "am wrestling",
+      "past_continuous": "was wrestling",
+      "present_perfect": "have/has wrestled",
+      "past_perfect": "had wrestled",
+      "future": "will wrestle",
+      "future_perfect": "will have wrestled"
+    }
+  },
+  {
+    "base": "fight",
+    "meaning_en": "To engage in combat with; to oppose physically, to contest with.",
+    "meaning_es": "pelear",
+    "example": "My grandfather fought the Nazis in World War II.",
+    "image_query": "people fighting boxing",
+    "frequency": 234,
+    "tenses": {
+      "present": "fight / fights",
+      "past": "fought",
+      "past_participle": "fought",
+      "present_continuous": "fighting",
+      "present_continuous_with_aux": "am fighting",
+      "past_continuous": "was fighting",
+      "present_perfect": "have/has fought",
+      "past_perfect": "had fought",
+      "future": "will fight",
+      "future_perfect": "will have fought"
+    }
+  },
+  {
+    "base": "hit",
+    "meaning_en": "To administer a blow to, directly or with a weapon or missile.",
+    "meaning_es": "golpear",
+    "example": "One boy hit the other.",
+    "image_query": "person hitting baseball",
+    "frequency": 235,
+    "tenses": {
+      "present": "hit / hits",
+      "past": "hit",
+      "past_participle": "hit",
+      "present_continuous": "hitting",
+      "present_continuous_with_aux": "am hitting",
+      "past_continuous": "was hitting",
+      "present_perfect": "have/has hit",
+      "past_perfect": "had hit",
+      "future": "will hit",
+      "future_perfect": "will have hit"
+    }
+  },
+  {
+    "base": "punch",
+    "meaning_en": "To strike with one's fist.",
+    "meaning_es": "dar un puñetazo",
+    "example": "If she punches me, I'm gonna break her nose.",
+    "image_query": "person punching boxing bag",
+    "frequency": 236,
+    "tenses": {
+      "present": "punch / punches",
+      "past": "punched",
+      "past_participle": "punched",
+      "present_continuous": "punching",
+      "present_continuous_with_aux": "am punching",
+      "past_continuous": "was punching",
+      "present_perfect": "have/has punched",
+      "past_perfect": "had punched",
+      "future": "will punch",
+      "future_perfect": "will have punched"
+    }
   }
 ]
