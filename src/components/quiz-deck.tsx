@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   motion,
   useMotionValue,
@@ -13,6 +13,7 @@ import { useProgress } from "@/hooks/use-progress";
 import { PronounceButton } from "./pronounce-button";
 import { VerbImage } from "./verb-image";
 import { Confetti } from "./confetti";
+import { throttle } from "@/lib/throttle";
 import type { Verb } from "@/lib/types";
 
 export function QuizDeck({
@@ -48,6 +49,27 @@ export function QuizDeck({
     setLeaving(null);
   }, [index]);
 
+  const next = () => {
+    setSelected(null);
+    setIndex((i) => i + 1);
+  };
+
+  const nextRef = useRef(next);
+  nextRef.current = next;
+  const throttledNext = useMemo(
+    () => throttle(() => nextRef.current(), 500),
+    [],
+  );
+
+  useEffect(() => {
+    throttledNext.reset();
+  }, [index, throttledNext]);
+
+  const advance = (dir: "left" | "right") => {
+    setLeaving(dir);
+    window.setTimeout(throttledNext, 300);
+  };
+
   if (isFinished) return null;
 
   const answered = selected !== null;
@@ -64,16 +86,6 @@ export function QuizDeck({
     } else {
       playWrong();
     }
-  };
-
-  const next = () => {
-    setSelected(null);
-    setIndex((i) => i + 1);
-  };
-
-  const advance = (dir: "left" | "right") => {
-    setLeaving(dir);
-    window.setTimeout(next, 300);
   };
 
   return (
@@ -220,7 +232,7 @@ export function QuizDeck({
               )}
             </div>
             <button
-              onClick={next}
+              onClick={throttledNext}
               className="mt-3 w-full rounded-2xl bg-accent px-4 py-4 text-base font-semibold text-accent-foreground shadow-lg shadow-accent/20"
             >
               Siguiente →

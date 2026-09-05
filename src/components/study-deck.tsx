@@ -47,6 +47,7 @@ export function StudyDeck({
   const [index, setIndex] = useState(0);
   const [side, setSide] = useState<"tense" | "meaning">("tense");
   const [leaving, setLeaving] = useState<"left" | "right" | null>(null);
+  const [locked, setLocked] = useState(false);
 
   const x = useMotionValue(0);
   const rotate = useTransform(x, [-220, 220], [-14, 14]);
@@ -61,11 +62,14 @@ export function StudyDeck({
   }, [index]);
 
   const advance = (dir: "left" | "right", known?: boolean) => {
+    if (locked) return;
+    setLocked(true);
     setLeaving(dir);
     window.setTimeout(() => {
       if (known && verb) onMarkKnown(verb);
       setIndex((i) => i + 1);
     }, 320);
+    window.setTimeout(() => setLocked(false), 1000);
   };
 
   if (isFinished) {
@@ -134,7 +138,7 @@ export function StudyDeck({
             onDragEnd={(_, info) => {
               const { offset, velocity } = info;
               const power = Math.abs(offset.x) + Math.abs(velocity.x) * 0.4;
-              if (power < 120) return;
+              if (power < 120 || locked) return;
               if (offset.x < 0) advance("left");
               else advance("right", true);
             }}
@@ -195,13 +199,15 @@ export function StudyDeck({
       <div className="mt-5 flex gap-3">
         <button
           onClick={() => advance("left")}
-          className="flex-1 rounded-2xl border border-border bg-card px-4 py-4 text-base font-semibold text-muted-foreground shadow-sm"
+          disabled={locked}
+          className={`flex-1 rounded-2xl border border-border bg-card px-4 py-4 text-base font-semibold text-muted-foreground shadow-sm transition-opacity ${locked ? "opacity-50" : ""}`}
         >
           ← No lo sé
         </button>
         <button
           onClick={() => advance("right", true)}
-          className="flex-1 rounded-2xl bg-accent px-4 py-4 text-base font-semibold text-accent-foreground shadow-lg shadow-accent/20"
+          disabled={locked}
+          className={`flex-1 rounded-2xl bg-accent px-4 py-4 text-base font-semibold text-accent-foreground shadow-lg shadow-accent/20 transition-opacity ${locked ? "opacity-50" : ""}`}
         >
           ✓ Lo sé
         </button>
