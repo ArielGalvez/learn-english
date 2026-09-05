@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import {
   motion,
   useMotionValue,
@@ -31,6 +31,7 @@ export function QuizDeck({
   const [confetti, setConfetti] = useState(false);
   const [leaving, setLeaving] = useState<"left" | "right" | null>(null);
   const [locked, setLocked] = useState(false);
+  const lockedRef = useRef(false);
 
   const x = useMotionValue(0);
   const rotate = useTransform(x, [-220, 220], [-14, 14]);
@@ -55,18 +56,26 @@ export function QuizDeck({
   };
 
   const goNext = () => {
-    if (locked) return;
+    if (lockedRef.current) return;
+    lockedRef.current = true;
     setLocked(true);
     next();
-    window.setTimeout(() => setLocked(false), 500);
+    window.setTimeout(() => {
+      lockedRef.current = false;
+      setLocked(false);
+    }, 600);
   };
 
   const advance = (dir: "left" | "right") => {
-    if (locked) return;
+    if (lockedRef.current) return;
+    lockedRef.current = true;
     setLocked(true);
     setLeaving(dir);
     window.setTimeout(next, 300);
-    window.setTimeout(() => setLocked(false), 500);
+    window.setTimeout(() => {
+      lockedRef.current = false;
+      setLocked(false);
+    }, 600);
   };
 
   if (isFinished) return null;
@@ -119,7 +128,7 @@ export function QuizDeck({
                 const { offset, velocity } = info;
                 const power =
                   Math.abs(offset.x) + Math.abs(velocity.x) * 0.4;
-                if (power < 120 || locked) return;
+                if (power < 120 || lockedRef.current) return;
                 if (offset.x < 0) advance("left");
                 else advance("right");
               }}
