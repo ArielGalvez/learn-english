@@ -32,7 +32,7 @@ export default function Home() {
           Learn English Verbs
         </h1>
         <p className="max-w-[260px] text-sm text-muted-foreground">
-          50 verbos irregulares esenciales. Estudia, evalúa y domínalos.
+          {TOTAL_VERBS} verbos en inglés. Estudia, evalúa y domínalos.
         </p>
       </motion.div>
 
