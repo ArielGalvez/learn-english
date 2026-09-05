@@ -26,7 +26,7 @@ App móvil-first (instalable PWA) para aprender verbos irregulares en inglés. S
 ### Datos
 Pipeline de build → `lib/verbs-data.ts` (frozen, sin IO en runtime):
 
-1. Lista curada de **50 verbos irregulares** ordenados por frecuencia (be, have, do, go, get, see, make, know, take, think, come, give, run, eat...)
+1. Lista curada de **236 verbos** ordenados por frecuencia (50 irregulares esenciales + verbos de acción cotidianos: cook, walk, dance, climb, wash...) — definida en `data/verbs-source.json`
 2. `english-verbs-helper` genera los **12 tiempos** por verbo
 3. Free Dictionary API (build-time, cacheada) → `meaning_en` + oración de ejemplo
 4. `meaning_es` curado manualmente en el JSON fuente
@@ -55,7 +55,7 @@ type Verb = {
 
 | Ruta | Función |
 |------|---------|
-| `/` | Home: modo Estudio / Evaluarme, progreso `X/50`, toggle "solo no aprendidos", toggle tema |
+| `/` | Home: modo Estudio / Evaluarme, progreso `X/236`, toggle "solo no aprendidos", toggle tema |
 | `/study` | Swipe deck (cards de estudio) |
 | `/quiz` | Swipe deck (preguntas MC) |
 | `/quiz/summary` | Resumen de resultados + stats |
@@ -93,7 +93,7 @@ type Verb = {
 | # | Entregable |
 |---|-----------|
 | 1 | Scaffold + tema light/dark (sistema + toggle, anti-flash) |
-| 2 | Datos: lista 50 verbos + script de build (librerías npm + diccionario) → `verbs-data.ts` |
+| 2 | Datos: lista curada de verbos + script de build (librerías npm + diccionario) → `verbs.json` |
 | 3 | Home + hooks `useProgress`, `useSpeech`, `useTheme` |
 | 4 | Modo Estudio: swipe + pronunciación + reveals + "Lo sé" |
 | 5 | Modo Quiz: generador MC + feedback + summary |
